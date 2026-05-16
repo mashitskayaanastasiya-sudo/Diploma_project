@@ -5,6 +5,7 @@ import os
 import sys
 import time
 import tomllib
+import tempfile
 from datetime import datetime, timezone
 
 # --- ЖЕСТКАЯ ПРИВЯЗКА ПУТИ ---
@@ -22,8 +23,8 @@ TUNED_MODEL_PATH = os.path.join(
     "my_tuned_model"
 )
 
-CHROMA_TUNED_PATH = os.path.join(current_dir, "chroma_db_tuned")
-CHROMA_BASE_PATH = os.path.join(current_dir, "chroma_db_base")
+CHROMA_TUNED_PATH = os.path.join(tempfile.gettempdir(), "compliance_chroma_db_tuned")
+CHROMA_BASE_PATH = os.path.join(tempfile.gettempdir(), "compliance_chroma_db_base")
 LOGS_DIR = os.path.join(current_dir, "logs")
 QUERY_LOG_PATH = os.path.join(LOGS_DIR, "query_logs.csv")
 
