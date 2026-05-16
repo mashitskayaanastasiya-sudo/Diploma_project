@@ -181,6 +181,12 @@ def log_query(user_id, selected_model, internal_model, query, response_time):
         )
 
 
+def show_model_error(selected_model, error, is_admin):
+    st.error(f"{selected_model} error. Please try again or contact the administrator.")
+    if is_admin:
+        st.exception(error)
+
+
 configure_environment_secrets()
 
 
@@ -265,7 +271,7 @@ if submitted and query:
                     st.caption(f"**Response time:** {round(end_time - start_time, 4)} sec.")
 
                 except Exception as e:
-                    st.error(f"{selected_model} error. Please try again or contact the administrator.")
+                    show_model_error(selected_model, e, is_admin)
 
     elif model_choice == "GPT RAG (Assistant)":
         if gpt_logic is None:
@@ -283,7 +289,7 @@ if submitted and query:
                     st.caption(f"**Response time:** {round(end_time - start_time, 4)} sec.")
 
                 except Exception as e:
-                    st.error(f"{selected_model} error. Please try again or contact the administrator.")
+                    show_model_error(selected_model, e, is_admin)
 
     elif model_choice == "Bedrock RAG (Assistant)":
         if bedrock_logic is None:
@@ -301,7 +307,7 @@ if submitted and query:
                     st.caption(f"**Response time:** {round(end_time - start_time, 4)} sec.")
 
                 except Exception as e:
-                    st.error(f"{selected_model} error. Please try again or contact the administrator.")
+                    show_model_error(selected_model, e, is_admin)
 
     elif model_choice == "DeepSeek RAG (Assistant)":
         if deepseek_logic is None:
@@ -319,7 +325,7 @@ if submitted and query:
                     st.caption(f"**Response time:** {round(end_time - start_time, 4)} sec.")
 
                 except Exception as e:
-                    st.error(f"{selected_model} error. Please try again or contact the administrator.")
+                    show_model_error(selected_model, e, is_admin)
 
     else:
         if model_choice == "Semantic Search (Fine-tuned)":
@@ -347,7 +353,7 @@ if submitted and query:
                     st.error("No relevant information found.")
 
             except Exception as e:
-                st.error(f"{selected_model} error. Please try again or contact the administrator.")
+                show_model_error(selected_model, e, is_admin)
 
 # --- FOOTER ---
 st.sidebar.divider()
