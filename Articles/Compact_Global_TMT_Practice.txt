@@ -1,0 +1,59 @@
+Compact Global TMT Practice
+
+This compact applies to TMT work outside Greater China Region and identifies work that is not approved, high risk, medium-risk plus, or medium risk.
+
+Work that is not approved includes:
+
+- Go-to-market work for clients that are not authorized to operate in a given market, such as clients banned by a local government due to corruption.
+- Work for TMT clients that can reasonably be understood to have a nexus to law enforcement, national security, military, or defense in a country with an EIU Democracy Index score below 6.
+- Work touching tobacco products, including vaping, heat-not-burn, or nicotine, or supplying materials or services to the tobacco industry.
+- Work requiring FARA registration with the U.S. Department of Justice.
+- Direct content moderation for technology platforms where colleagues could be exposed to violent or damaging content.
+- Work for pornography clients or business units on pornography topics.
+- Certain gambling and sports betting work, including work in countries where gambling is unregulated or illegal, work that grows customers, usage, or loyalty for online-only gambling entities, brand repair, crisis response, or work restricted by other Firm policies.
+- Use of the Firm name to audit or endorse platform content moderation or privacy programs.
+
+High-risk work requires CSRC approval with input from PRACL and other relevant cell leaders, as well as ongoing deliverable review. Examples include:
+
+- Site manufacturing decisions in geopolitically sensitive regions.
+- New clients with more than 20% ownership by a controversial institution or by a government in a country with an EIU score below 6.
+- Current clients with such ownership that recently experienced a significant change in ownership or control.
+- Current clients with such ownership where the engagement would otherwise be medium risk under this compact.
+- Clients in bankruptcy.
+- Foreign companies with a local presence only for lobbying purposes.
+- Consumer privacy work involving access to or collection of patient or user data for e-health engagements, such as smart watches or handsets, with lower risk possible in countries with EIU scores above 6.
+- High-risk AI products, synthetic cloning, or robotics and automation affecting vulnerable job groups.
+- Technology use cases designed for defense, police, or online gaming platforms, or with significant potential for abuse by bad actors, such as biometrics, image recognition, individual scoring technologies, or 5G.
+- Spectrum auctions or work in regulated industries with regulatory or competitor conflict risk.
+
+Medium-risk plus work requires CSRC approval with input from PRACL and other relevant cell leaders. Examples include:
+
+- New gambling clients.
+- Gambling and sports betting work requiring access to PII, building new businesses beyond the core, or expanding into new markets.
+- Privacy issues, including collaborative assessment, design, and reporting of privacy practices.
+- Smart cities.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders. Examples include:
+
+- Gambling, sports betting, or engagements serving lotteries.
+- Work touching cannabis products, including CBD, or supplying materials or services to the cannabis industry.
+- Technology and telecommunications equipment manufacturers with potential government associations.
+- Journalism or news outlets, where the risk of work becoming public is higher than usual.
+- Media organizations with a strong political angle.
+- Social media and content-based platform clients where influence over users is significant.
+- Work for a sovereign wealth fund or state-linked enterprise that may involve U.S. government interactions, partnerships with or investments in U.S. companies, or work related to how the foreign entity is perceived in the United States.
+- Content moderation topics or services.
+- Work involving violent or damaging content, or clients whose business model materially relies on violent or damaging content or pornography.
+- Advanced analytics on customer behavior where the CST would access sensitive user data at the individual level.
+- Consumer privacy.
+- Supply chain resiliency work.
+- Marketing or search optimization that could touch at-risk groups, such as teenagers.
+- Cost or product work involving HR, productivity, or development databases that could create PII exposure.
+- Governance situations where one person controls the company and could override management or the board, especially for new TMT clients or clients not served in the past two years.
+- Celebrities or clients with high public visibility.
+
+U.S. engagements involving export-controlled information must operate in the USD IT environment. Outside the United States, teams should seek guidance from the relevant Firm contact.
+
+Engagements that deploy Customer360 are at least medium risk. PRACL may determine that the work is higher risk and requires CSRC review.
+
+Teams should syndicate with TMT Reach and Relevance and Firm Media Relations during risk review discussions where relevant.

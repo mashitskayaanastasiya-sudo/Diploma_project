@@ -1,0 +1,57 @@
+Copyright and Trademark Guidelines
+
+Third-party content is often protected by intellectual property laws, including copyright and trademark laws. These laws limit how the content can be copied, modified, distributed, displayed, or reused.
+
+Copyright is an automatic right that protects the expression of creative works. Copyright notices are not required for protection. Copyright can cover photographs, music, videos, GIFs, websites, movie clips, graphics, computer programs, written text, and other creative works. Copyright generally does not protect the underlying idea, fact, concept, system, or method.
+
+Copyright law prohibits copying a protected work in whole or in part unless permission or another valid basis applies. Copying includes posting content on the intranet, including it in a document, forwarding it by email, or storing it where others can access it. Providing a direct link to the original source is usually not copying.
+
+Trademarks protect brand identifiers, including names, words, symbols, slogans, logos, and combinations that identify a provider's goods or services.
+
+Attribution is not a substitute for permission. Attribution may help avoid plagiarism, but it does not make unauthorized copying permissible.
+
+Content that is free to view is not necessarily free to use. Material found through internet searches, on image search, YouTube, Google Images, or similar sources is usually protected and may not be reused without permission. Free access for personal viewing does not mean the Firm may use the content for commercial purposes.
+
+Firm-created materials shared internally may still have external-use restrictions. Even if the Firm or a Firm member authored the material, rights may have been transferred to a publisher. Confirm with the content owner or author before sharing outside the Firm.
+
+Firm-licensed third-party sources are usually subject to license limitations. This can include investment reports, news stories, business school cases, raw data, white papers, academic articles, and similar materials. Even when the Firm has licensed the material, the license may not allow external sharing, forwarding, broad internal reuse, or reuse across engagements or clients.
+
+Rewritten or modified third-party content may still be protected as a derivative work. Significant adaptations of articles, frameworks, books, methodologies, vector backgrounds, images, or similar materials generally require permission. Firm proprietary content should not be uploaded to unapproved third-party applications or websites to modify it.
+
+Content from free websites may still be protected by copyright and subject to restrictions. This includes music, videos, pictures, GIFs, and similar creative works. Embedding music or movie clips in Firm materials usually requires permission and is not recommended. Teams may link directly to the source instead.
+
+Websites that claim to provide copyright-free content may still impose restrictions. For third-party images, the Firm's enterprise Getty Images subscription should be considered first.
+
+Images of well-known people, characters, or memes may involve both copyright and publicity rights. Copyright protects the image itself, while publicity rights may protect the individual shown in the image. Permission may be required even when the person, character, or meme is famous.
+
+Company logos are trademarks. A logo can generally be used instead of a company name for identification purposes in non-public Firm materials, such as a client proposal, but teams must avoid implying endorsement, sponsorship, or affiliation. When using a client or potential client logo, syndicate with the client's DCS and relevant stakeholders.
+
+Client-provided materials should not be reused or shared with other clients. If the client provides its own copyrighted materials, permission can usually be inferred for use on that client's engagement. If the client provides third-party content, the Firm generally needs permission from the third-party owner.
+
+Firm-authored materials published by third parties may no longer be owned by the Firm. Permission from the publisher may be needed before reuse or republication.
+
+Materials created by a third party retained by the Firm require a written agreement transferring ownership or granting the required rights. Payment alone is not enough.
+
+Physical mass media, such as print books, newspapers, and magazines, may be shared in original physical form, but copying or digitizing them remains subject to copyright guidance.
+
+Quoting limited portions of publicly available sources with attribution may be permissible when the quote is limited in proportion to the whole work. However, licensed materials may impose additional confidentiality and use restrictions. Extracting or excerpting other media, such as a movie clip or a photograph, typically requires permission.
+
+Publicly available material is not the same as public domain material. Public materials may be accessible to anyone, but they can still be protected by copyright, trademark, publicity rights, or contractual restrictions.
+
+Verbal permission should not be relied on. Permission should be documented in writing, such as through a confirmation email that can be saved for future reference.
+
+Open source software and data may be used only in compliance with the applicable license terms. Some licenses require notices, license terms, payment, source-code disclosure, or other steps. Software or data under such licenses may not be used without prior Firm Legal approval.
+
+Commercial use includes uses for commercial advantage, not only uses for direct monetary compensation. Firm use should generally be treated as commercial, even for pro bono work, training, or work for a nonprofit client.
+
+Trademark use must avoid confusion. A similar mark, parody, or satire can still create risk and should be reviewed with IP Legal.
+
+Firm-licensed materials should not be broadly redistributed unless the license permits it. Teams should not share user logins, create repositories of licensed materials for others to access, or externally share raw third-party data or reports without confirming the license terms.
+
+Temporary storage of third-party materials for a client engagement may be allowed, but archiving licensed materials for broad or later reuse is not recommended without reviewing the applicable license terms.
+
+If a Firm member writes an article or other work, the Firm may initially own the copyright, but publication agreements can transfer rights to the publisher. Consult IP Legal and the Firm's publishing team before signing any agreement that could transfer rights.
+
+If a contractor or consultant creates material for the Firm, the Firm has limited rights unless a written agreement transfers copyright or grants the necessary rights.
+
+Questions about third-party content, Firm-licensed materials, permissions, reprints, images, videos, or trademarks should be directed to the appropriate Firm teams, including External Capabilities and Insights, Visual Graphics & Media, IP Legal, or the relevant publishing support team.

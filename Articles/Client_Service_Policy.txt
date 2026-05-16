@@ -1,0 +1,100 @@
+Client Service Policy
+
+This policy applies to all Firm members and all client work globally across all sectors, whether paid, discounted, unpaid, pro bono, no-fee, formal, informal, direct, indirect, or performed through a third party.
+
+The Firm's choices about client development and client service opportunities are guided by the CITIO framework and risk compacts.
+
+The CITIO framework assesses risk across five dimensions:
+
+- Country.
+- Institution.
+- Topic.
+- Individual.
+- Operational considerations.
+
+Partners must apply the framework before pursuing client development opportunities with new or existing clients.
+
+Country risk includes the risk level of the country of activity and compliance with travel, immigration, sanctions, export controls, and international trade controls.
+
+Institution risk includes concerns about the potential client institution, including integrity, reputation, ownership, transparency, corruption risk, discriminatory conduct, and controversy.
+
+Topic risk includes whether the Firm can deliver meaningful impact and whether the Firm is comfortable being externally associated with the work.
+
+Individual risk includes concerns about client leaders and people in positions of ownership or control, including integrity, reputation, and background.
+
+Operational considerations include legal, regulatory, confidentiality, conflicts, privacy, third-party, anti-corruption, model bias, and people-safety risks.
+
+Client service opportunities that do not meet the CITIO bar may not be pursued.
+
+All paid and unpaid client engagements must have a named responsible partner and a named accountable senior partner. These should generally be two different partners to provide four-partner-eyes review.
+
+Before any engagement begins, the responsible partner must complete the Engage risk assessment. The accountable senior partner must confirm the completeness and accuracy of the assessment.
+
+For public, social, and state-owned sector work, the Engage risk assessment must be completed by the responsible partner and approved by the accountable senior partner before a letter of proposal is submitted.
+
+Engagements should be registered in Engage as early as possible so diligence, review, and approvals can begin promptly.
+
+The engagement start date in Engage should accurately reflect the date client work begins. If the date is uncertain, it must be updated as information becomes available.
+
+For new clients, clients not served for two or more years, or clients that have undergone a change in control, the responsible partner and accountable senior partner must trigger required diligence and approvals before engagement work begins.
+
+Tier 1 clients include entities that, in the five years before the engagement, were convicted of a crime, resolved a criminal investigation, or were under court or government supervision as a result. Tier 1 clients and their subsidiaries require approval from the Client Service Risk Committee, General Counsel, and Chief Ethics and Compliance Officer before work may proceed.
+
+For engagement approvals, the responsible partner must consult relevant sector and geographic risk compacts, determine the risk level, and capture it in Engage. The accountable senior partner must confirm the determination.
+
+Approval requirements based on compact risk rating are:
+
+- Work we will not do: the work must not be pursued.
+- High risk: Client Service Risk Committee or subcommittee approval is required, with ongoing review.
+- Medium-plus risk: Client Service Risk Committee or subcommittee approval is required.
+- Medium risk: cell leader approval is required.
+- Not applicable: work may proceed on the accountable senior partner's authority, subject to other risk or legal flags.
+
+Guardrails may be required before the Firm commits to work. Guardrails may be imposed by the Client Service Risk Committee, Client Service Risk team, Firm Legal, Firm Security, Firm Communications, Firm standards, or compacts.
+
+Guardrails are binding once prescribed. The responsible partner is responsible for executing and communicating guardrails. The accountable senior partner is accountable for ensuring execution.
+
+Topic or situation flags in Engage may trigger additional review, standards, guardrails, or approvals. The responsible partner must update Engage if the scope changes during an engagement.
+
+Examples of flagged areas include:
+
+- United States Life Sciences and United States private healthcare.
+- Technology delivery.
+- Public, social, and state-owned sector work.
+- Foreign influence.
+- Purchaser-supplier engagements.
+- Mergers, acquisitions, alliances, and financial restructuring.
+- Investment-related support.
+- Health, safety, and quality.
+- Quality, compliance, and remediation services.
+- Use of the Firm's name.
+
+Technology delivery includes engagements that deliver a leave-behind technical asset, advanced analytics, digital build, cloud deployment, or digital business build.
+
+Public, social, and state-owned sector work includes work with governments, public bodies, ministries, agencies, regulators, multilaterals, nonprofits, philanthropic foundations, NGOs, and state-owned enterprises.
+
+Foreign influence laws may apply to work for non-U.S. and non-Australian government clients, state-linked entities, sovereign wealth funds, or significantly government-funded entities when the work supports outreach to the United States or Australia or engagement with a United States audience.
+
+Purchaser-supplier engagements involve work that will or could directly affect a client's commercial terms with specific suppliers or purchasers.
+
+M&A work includes services related to ownership changes, alliances, mergers, acquisitions, divestitures, spin-offs, carve-outs, joint ventures, or financial restructuring.
+
+Investment-related support is support for a client's investment decision-making for public securities and is generally prohibited except in exceptional approved cases. Investment advice under United States securities laws is prohibited under all circumstances.
+
+Health, safety, and quality engagements include work that could affect health, safety, or product quality.
+
+Quality, compliance, and remediation services include support on regulatory or compliance issues related to cGxP in pharmaceutical, medical product, and biologics operations or research and development.
+
+During an engagement, the responsible partner and accountable senior partner are responsible for the quality of client deliverables. The responsible partner must monitor changes in client, engagement, context, or topic risk and escalate as needed.
+
+All client service team members must report actual or suspected violations of the Code, Firm policies, Firm standards, or law through approved channels.
+
+At engagement close, the engagement manager and responsible partner have responsibilities for archiving, retaining, sanitizing, and deleting Client Data according to the Client Data and Document Management Policy and FinalDocs program.
+
+Reverse secondments are generally not allowed. Rare exceptions require Client Service Risk Committee approval before commitments are made.
+
+Firm members must comply with this policy, act with integrity, and report violations. If local law is stricter, Firm members must follow local law.
+
+The Firm does not tolerate retaliation for good-faith reporting or participation in a review or investigation.
+
+Failure to comply may result in disciplinary action, including separation from the Firm.

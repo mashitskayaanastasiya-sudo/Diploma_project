@@ -1,0 +1,52 @@
+Compact Global SHaPE Practice HSS
+
+This compact identifies HSS engagement topics that are not approved, require CSRC approval, require RSB approval, or require PRACL approval with input from relevant leaders.
+
+Work that is not approved includes:
+
+- Balance billing expansion, typically in North America but not limited to North America.
+- Real or perceived clinical decision-making.
+- Actuarial certification.
+- Policy or regulatory advocacy.
+- Support for initiatives that make it more difficult to qualify for charity care.
+- Pricing work that is anti-competitive.
+- Transaction-level analytics to define provider charge masters.
+- Work focused on addictive substances or individuals experiencing addiction, including opioids, antipsychotics, or other addictive substances.
+- Consumer sales or marketing.
+- Patient or consumer collections.
+- Clinical coding accuracy.
+
+Clinical decision-making means evaluating and interpreting medical information, including patient history, physical exam findings, or diagnostic information, by a licensed physician, advanced practice provider, or allied health professional who is permitted to make diagnostic and treatment decisions and develop a treatment plan.
+
+Patient refers to individuals with established relationships with a provider. Consumer refers to patients or prospective patients.
+
+Vulnerable individuals include racial or ethnic minorities, children, elderly people, socioeconomically disadvantaged people, underinsured people, people with certain medical conditions, Medicare and Medicaid populations, and indigenous populations.
+
+High-risk work requires CSRC approval with input from PRACL and other relevant cell leaders, as well as ongoing deliverable review. Examples include:
+
+- Analytics to support medical and pharmacy policy or formulary decisions for health insurers, including PBMs.
+- Reimbursement or pricing analytics in a common-market merger or roll-up context.
+- Healthcare and fintech crossover work, including medical credit cards or other forms of healthcare financing for patients.
+- Digital tools that help patients with clinical or care selection.
+- Charge master accuracy.
+- Closure of acute or emergency care delivery sites, such as hospitals or emergency departments.
+- At-risk arrangements outside pre-approved frameworks.
+- Fact-based support for regulatory advocacy or policy making.
+- Work that disproportionately affects vulnerable patients.
+
+Medium-risk plus work requires RSB approval with input from PRACL and other relevant cell leaders, with the option to escalate to CSRC. Examples include:
+
+- Referral management.
+- Utilization management or payment integrity.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders, with the option to escalate to CSRC. Examples include:
+
+- Hospital operations involving clinical staffing ratios, operating room turnaround times, or device selection.
+- Pricing.
+- Analytics involving PHI or PII data.
+- Combining disparate data sets at an individual level.
+- Work involving care models, including care management, care pathways, case management, patient segmentation, care gap analysis, and clinical quality.
+- Engagements related to mental health services, consistent with the Behavioral Health Center of Excellence framework.
+- Any work related to the 340B program.
+
+Questions involving addictive substances or the interpretation of related restrictions should be escalated to Client Service Risk and Legal.

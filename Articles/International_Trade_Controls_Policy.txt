@@ -1,0 +1,80 @@
+International Trade Controls Policy
+
+The Firm is committed to complying with applicable laws governing interactions with, and the provision of goods and services to, sensitive parties and regions.
+
+International Trade Controls include sanctions, export controls, import controls, and antiboycott rules. They stem primarily from national security authorities. Because strict liability can apply, even inadvertent violations can result in monetary fines, reputational harm, and personal consequences. Willful violations can result in criminal prosecution.
+
+This policy applies globally to all Firm-owned or controlled entities and all Firm members.
+
+The Sanctions section applies to dealings with Counterparties, including current and prospective clients, client-facing collaborator firms, external workers, suppliers, potential new hires, potential charitable contribution recipients, and any other person or organization Firm members deal with directly or indirectly on the Firm's behalf.
+
+The Export Controls section applies to export, reexport, or in-country transfer of hardware, software, technical data, technical discussions, services, and related activities. It also reiterates the Firm's obligation to comply with antiboycott laws.
+
+The Import Controls section applies to importing items or services into countries, including tangible goods, software, technology, and services.
+
+Sanctions laws may restrict the Firm from:
+
+- Transacting with jurisdictions subject to embargoes.
+- Transacting with people or entities on Restricted Party Lists.
+- Engaging in certain activities with people or entities in high-risk jurisdictions.
+
+Export control laws regulate the export, reexport, and in-country transfer of certain goods, technical data, software, and services related to military and dual-use items. The Firm may occasionally need to receive, process, or transmit export-controlled items or technical data on behalf of Counterparties.
+
+Antiboycott rules restrict the Firm from participating in illegal boycotts or discriminating against protected classes.
+
+Import controls are designed to secure supply chains, protect human rights, and support other government policies.
+
+Sanctions can prohibit the Firm from dealing directly or indirectly with Sanctioned Parties. A Sanctioned Party includes any individual, group, entity, organization, or vessel listed on a Restricted Party List, or any entity owned 50% or more, or controlled, by one or more persons on a Restricted Party List. Firm Legal, in consultation with Ethics & Compliance, determines whether a Counterparty is a Sanctioned Party.
+
+International Trade Controls limit the Firm's operations with or in Restricted Jurisdictions and may prohibit virtually all activity with particular countries or regions. These controls can also restrict dealings with individuals ordinarily resident or located in Restricted Jurisdictions, and with entities established under those jurisdictions' laws.
+
+International Trade Controls generally prohibit the Firm from providing services to clients located outside Restricted Jurisdictions when the services relate to dealings with, operations in, or investments in Restricted Jurisdictions.
+
+Sanctionable Activities can result in the Firm or Firm members being penalized or designated as Sanctioned Parties. Sanctionable Activities include engagements involving Counterparties' dealings in, operations with, investments in, or benefit to Restricted Jurisdictions, or projects involving Sanctioned Parties directly or indirectly.
+
+Firm members, suppliers, and third parties working on the Firm's behalf must cooperate with sanctions compliance efforts by:
+
+- Following sanctions-related diligence and onboarding procedures.
+- Providing timely and accurate Counterparty information in Firm systems before engagement.
+- Escalating and following up on screening results.
+- Staying vigilant for Restricted Jurisdictions, Restricted Parties, Sanctionable Activities, or other red flags.
+- Escalating concerns or seeking guidance from the appropriate Firm contact.
+
+Ethics & Compliance, in consultation with Firm Legal and the Sanctions and Export Control Officer, is responsible for screening Counterparties before the Firm interacts with them. Screening timing, frequency, and scope are determined using a risk-based approach.
+
+All engagements involving Sanctionable Activities require prior consultation and approval from Firm Legal at minimum. Certain cases require syndication with CSRC.
+
+All Firm members and individuals acting on behalf of the Firm must comply with applicable export control laws and regulations, including the U.S. Export Administration Regulations and U.S. International Traffic in Arms Regulations where applicable.
+
+Firm members must not accept, agree to accept, or transmit export-controlled items or technical data, perform export-controlled consulting services, or take actions requiring export control reporting, licensing, or authorization without first receiving guidance from the Sanctions and Export Control Officer.
+
+For engagements that may involve export-controlled items or technical data, the CST should discuss with the client whether access is contemplated and whether access is absolutely necessary. The Firm's default position is not to deal in export-controlled items or technical data unless it is absolutely necessary for impact.
+
+The Responsible Partner must also determine whether the CST will provide services that are export-controlled or relate to export-controlled goods or technical data, even without direct access to those items. Defense, nuclear, and encryption-related services may require government licensing or authorization.
+
+If export controls licensing or authorization may be triggered, the Responsible Partner must consult the Sanctions and Export Control Officer to determine whether a Compliance Plan or other guardrails are required.
+
+A Compliance Plan may set procedures to avoid receiving export-controlled goods or technical data, receive them in a compliant way, or follow other guardrails. The Responsible Partner oversees training and implementation, and the Accountable Senior Partner is accountable for full implementation.
+
+Firm members must comply with applicable antiboycott laws. Requests to participate in an illegal boycott or discriminate against protected classes must be reported to the Sanctions and Export Control Officer.
+
+When importing items into a country on behalf of the Firm or for Firm-related work, Firm members must comply with applicable import laws, including duties, fees, bans, licenses, authorizations, and government-contracting commitments.
+
+The Sanctions and Export Control Officer may determine what procedures are necessary to comply with International Trade Controls and may issue compliance directives. The Officer may also prevent a transaction or suspend Firm activity if there is knowledge or reason to believe the activity may violate International Trade Controls.
+
+Concerns about potential violations of International Trade Controls, a Compliance Plan, or this policy must be reported immediately. Reporters are protected from retaliation and may report anonymously where permitted.
+
+Requests for sanctions or export-related records by government officials, or visits or other contacts from such officials, must be reported immediately to the Sanctions and Export Control Officer.
+
+The Firm implements risk-based measures to:
+
+- Identify Sanctioned Parties, Restricted Jurisdictions, and Sanctionable Activities in potential opportunities and relationships.
+- Reject or terminate opportunities and relationships that cannot reasonably comply with applicable sanctions, while respecting blocking, nondiscrimination, and antiboycott laws.
+- Classify export-controlled items and services where warranted.
+- Conduct training and awareness-building.
+- Investigate suspected non-compliance and adopt remediation where needed.
+- Maintain complete and accurate records for activities or transactions that may implicate International Trade Controls.
+
+Firm members must comply with this policy, act with integrity, and report violations. The Firm does not tolerate retaliation for good-faith reporting or participation in a review or investigation.
+
+Failure to comply may result in disciplinary action, including separation from the Firm. Third-party violations may result in consequences up to termination of the arrangement.

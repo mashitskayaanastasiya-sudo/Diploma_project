@@ -1,0 +1,43 @@
+Global GEM Practice Compact - Oil and Gas
+
+This compact provides conflict guidance for oil and gas work. It does not supersede the Client Service Policy or other Firm policies and guidelines. Partners and client service teams must comply with all applicable Firm policies and relevant sector compacts.
+
+Work that is not approved in this space should not be performed.
+
+High-risk work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders, plus ongoing deliverable review.
+
+Medium-risk-plus work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders.
+
+Work not approved or requiring heightened review includes:
+
+- Helping clients advocate or justify denial of climate change.
+- Analysis, reports, or publications that challenge or undermine mainstream scientific consensus on anthropogenic climate change.
+- Work helping clients circumvent or lower environmental or health and safety standards or targets.
+- Advising national oil companies, international oil companies, or oilfield services and equipment companies on projects related to direct investments from Chinese government-owned entities.
+- Advising clients selling or buying Russian-origin oil or petroleum products in the context of current sanctions.
+- Closed-loop digital and analytics models for GEM clients where there is any potential safety impact.
+- Serving industry associations, including work that could be perceived as advocacy or lobbying.
+- Advising clients on geopolitical topics, including security of supply.
+- Company reconfigurations and divestments of high-carbon-intensity assets to buyers with irresponsible environmental records.
+- Work related to health, safety, and environment, including defining environmental standards, company policy, or implementation.
+- Crisis response.
+- Work similar to a fairness opinion on geological reserves where the client would use the Firm's view as the basis for balance sheet valuation.
+- Commercial or pricing engagements.
+- Commodity marketing, trading, commercial optimization, or trading risk management advice.
+- Serving clients involved in Arctic offshore, deepwater, or shale projects involving Russian oil companies anywhere in the world.
+- Work related to price cap policies on Russian-origin oil or petroleum products.
+- High-risk digital and analytics decision-making support systems that may adversely affect a client's core business.
+
+The practice goal is to balance energy security, inclusive access to affordable energy, and lower emissions on the path to net zero.
+
+When in doubt, teams should consult an oil and gas practice leader.
+
+For each client and letter of proposal, teams should consider:
+
+- The client or asset's carbon intensity.
+- The client or asset's methane commitments.
+- Any major environmental concerns.
+- Implications for energy security and affordability.
+- How the Firm can help the client improve while meeting overall goals.

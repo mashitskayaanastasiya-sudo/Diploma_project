@@ -1,0 +1,76 @@
+Compact Global AI Practice Plus Defense
+
+This compact does not supersede other Firm policies or guidelines. Cell partners and CSTs remain responsible for following the Client Service Policy, CITIO Framework, and any other relevant Firm policies or compacts for the specific client or engagement context.
+
+The compact covers higher-risk AI, defense, semiconductor, space, cyber, and related technology work. Risk level must be confirmed with the relevant practice and risk leaders before an engagement proceeds.
+
+Work that is not approved includes:
+
+- Clients in, or analysis focused on, countries where the Firm's work is prohibited under applicable sanctions, including any sanctioned entities.
+- Any work in Russia.
+- Work for entities that are 50% or more owned by sanctioned parties.
+- Work requiring FARA registration with the U.S. Department of Justice.
+- Legal or regulatory analysis, including defining regulations or work that could be perceived as relaxing or circumventing legal or regulatory constraints.
+
+High-risk work requires CSRC approval, input from PRACL and other relevant cell leaders, and ongoing deliverable review. Examples include:
+
+- Work for entities partially owned by sanctioned entities.
+- Work on critical technologies, including defense, artificial intelligence, quantum, cybersecurity, jamming technologies, and semiconductors, for governments in countries rated below 6 on the EIU Democracy Index.
+- Public sector and state-owned enterprise AI clients.
+- Work involving technology or analytics that aggregates large amounts of personal data, such as biometrics, facial recognition, identity analysis, or location analysis, where individuals could be negatively affected.
+- Work involving cost-cutting efforts that could cause substantial job losses in a specific geography and create reputational risk for the Firm.
+- Work that could reasonably negatively affect product safety, product quality, client employee safety, or CST safety.
+- Work for clients in countries below EIU 6 that have capacity for dual-use products or services, such as commercial shipbuilding, aviation, or automobiles.
+- Work involving technologies that reduce the human factor in favor of artificial intelligence or machine learning where the technology could be perceived as harmful, such as autonomous cars, drones, or defense robotics.
+- Engagements involving rare earths or rare earth-related products.
+- Work with government-owned, contractor-operated facilities, which also requires PSSS risk review.
+- M&A work involving a target with flags under this compact, including targets in countries below EIU 6 or targets operating in defense, policing, immigration, surveillance, or similar areas.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders. Examples include:
+
+- Work that could meaningfully increase geopolitical concerns, such as supply chain advice that could alter trade dynamics, reallocate global capacity, or otherwise create significant geopolitical concern.
+- Work for industry associations, including ACEA, OESA, AEM, GSA, AIA, and NDIA.
+- Work that could be perceived as lobbying or endorsing a policy position.
+
+Before proceeding with work covered by this compact, teams should consider:
+
+- Whether a practice or risk leader has reviewed the work.
+- Whether a Firm Risk advisor is involved.
+- Whether Legal has helped draft the contract and implement legal guardrails.
+- Whether the work may be subject to FARA registration.
+- Whether the work may involve export-controlled information.
+- Whether downstream effects could affect safety, product quality, operations, or the client's safety culture.
+- Whether the client faces media scrutiny beyond the level generally experienced in the industry.
+- Whether any client exclusivity exception must go to CSRC.
+- Whether sustainability engagements have been syndicated with regional Sustainability leaders.
+
+Semiconductor work has additional restrictions. Work that is not approved or requires escalation includes:
+
+- Work related to chips designed for military, intelligence, or policing applications in countries ranked below 6 on the EIU Democracy Index.
+- Work for semiconductor companies targeted for export control restrictions, including entities on the BIS Entity List.
+- Work in countries ranked below EIU 6, or where the owner of a client is based in a country ranked below EIU 6.
+- Work for clients in countries ranked above EIU 6 where the work analyzes entities or market entry into countries ranked below EIU 6.
+- Work supporting the development of new semiconductor capabilities in a country where the capability is not yet established.
+- Work that could lead to geopolitical ramifications.
+- Work on technology roadmaps that could have geopolitical ramifications.
+- Work that could be perceived as endorsing a policy position or lobbying a government.
+- Collaboration with industry associations, such as OESA, GSA, or SIA.
+- Inviting clients from countries below EIU 6 to in-person or webinar events.
+
+Defense and security work has additional restrictions. Work that is not approved or requires escalation includes:
+
+- Defense and security clients in countries with an EIU Democracy Index score below 6, including ministries of defense, armed forces, intelligence services, police departments, and defense industry contractors.
+- Defense technologies prohibited under local laws or regulations.
+- Direct support for combat operations or work focused on defeating a specific nation.
+- Work on ongoing military operations.
+- Work for institutions whose core business includes firearm manufacturing for civilian consumers or ammunition manufacturing for civilian small arms.
+- Space topics in countries with an EIU score below 6.
+- Defense work in countries with an EIU score of 6 or higher that substantially affects entities or individuals in countries below EIU 6, or aims to increase defense sales into those countries.
+- Work on defense goods sold to intermediaries, small groups of individuals, or situations with unclear transparency on the end user.
+- Work focused on selling or improving performance of sensitive defense goods, including firearms, ammunition, guided missiles, toxicological agents, or nuclear weapons.
+- Engagements supporting military acquisition processes that could adversely affect existing clients.
+- Telecommunications work involving interception or jamming technology.
+- Work involving fees tied to sales of individual defense products.
+- Work defined by International Trade Legal as high risk, work that requires rescoping to avoid a license, or work that requires an export controls license.
+
+Sub-sector compacts must be reviewed before confirming risk level for studies in defense, semiconductors, space, cyber, and related Firm guidelines.

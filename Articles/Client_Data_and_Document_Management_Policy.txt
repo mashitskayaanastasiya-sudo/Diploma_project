@@ -1,0 +1,83 @@
+Client Data and Document Management Policy
+
+This policy applies to all Firm members and governs the management of client and Firm data.
+
+All Firm members are responsible for proper management of client and Firm data and must follow the behaviors described in this policy.
+
+Client Data includes documents, data, and supporting materials received from or created in service of clients, including Firm work product. Client Data may include:
+
+- Client proposals.
+- Raw data.
+- Interim documents.
+- Client deliverables.
+- Algorithms and code.
+- Client communications.
+
+For a specific client engagement, the accountable senior partner is ultimately accountable for compliance with this policy. The responsible partner is responsible for executing the policy requirements.
+
+The responsible partner must:
+
+- Understand this policy and any client-specific requirements.
+- Ensure the requirements are understood, communicated, and implemented across the team and supporting client capability cells.
+- Certify that policy responsibilities are completed at the end of the engagement.
+
+For a client capability cell, the global cell leader is accountable for compliance. Each cell should appoint a data management responsible partner.
+
+The data management responsible partner should:
+
+- Develop and implement a strategic approach to client data management consistent with this policy.
+- Designate qualified and resourced personnel to meet policy requirements.
+- Regularly review the cell's implementation of client data management responsibilities.
+- Confirm on request that client data under the cell's control has been retained, sanitized, or deleted appropriately and that client-specific requirements have been met.
+
+System and product owners are responsible for ensuring Firm systems and products that collect, use, or retain Client Data are developed and maintained in a way that supports compliance with this policy.
+
+When setting up an engagement, teams should:
+
+- Discuss and agree with the client what Client Data will be collected.
+- Agree how Client Data will be used and retained.
+- Reduce Client Data sensitivity from the outset by removing or de-risking non-essential data elements.
+- Use techniques such as aggregation, anonymization, and minimization where appropriate.
+- Receive and use Client Data only through Firm-approved applications, devices, and systems.
+
+During an engagement, teams should:
+
+- Limit access to Firm colleagues and authorized third parties with a legitimate reason to view or use Client Data.
+- Restrict access where legal or national security concerns require it.
+- Sanitize materials and data before sharing outside the team.
+- Use Firm-approved repositories to store and disseminate sanitized data and materials.
+- Immediately escalate any unauthorized transfer or disclosure of Client Data outside the Firm to the Security Operations Center.
+
+At the end of an engagement, the Firm must maintain a central archived record of final engagements. The responsible partner is accountable for the FinalDocs program, with support from the engagement manager or team leader.
+
+Teams must archive appropriate categories of Client Data, including:
+
+- Proposals.
+- Contracting documents.
+- Invoices.
+- Deliverables.
+- Close-out memos.
+- Supporting data and documents.
+
+Client Data may be retained and reused for non-archival purposes only if:
+
+- The client expressly agrees and the retention complies with Firm policies.
+- The data is sanitized according to the Firm's information sharing and sanitization guidelines.
+
+Client Data not retained under an approved condition and not subject to a legal hold or preservation requirement must be deleted. Some platforms automatically delete Client Data after set retention periods.
+
+Any colleague who learns of litigation, investigation, or other legal action that could involve the Firm or client work must immediately notify Firm Legal.
+
+Until Firm Legal provides direction, no Client Data or related material that could relate to the matter may be destroyed.
+
+Firm Legal will determine whether preservation obligations apply. If they do, affected colleagues must preserve the relevant data and follow Legal instructions until Legal confirms retention is no longer required.
+
+A legal preservation obligation suspends any deletion schedule or deletion obligation, including deletion requirements in client agreements or Firm policies.
+
+Exceptions to this policy may be granted only by Ask Risk. Exceptions related to litigation, investigations, or preservation require express approval from Firm Legal. All exceptions must be documented in writing.
+
+Firm members must comply with this policy, act with integrity, and report violations. If local law is stricter, Firm members must follow local law.
+
+The Firm does not tolerate retaliation for good-faith reporting or participation in a review or investigation.
+
+Failure to comply may result in disciplinary action, including separation from the Firm. For third parties engaged by the Firm, violations may result in consequences up to and including termination of the arrangement.

@@ -1,0 +1,120 @@
+Anti-Corruption Procedure on Third-Party Intermediaries
+
+This procedure supplements and is enforceable under the Anti-Corruption Policy. It applies to all Firm members who engage or manage Third-Party Intermediaries, and to Firm functions responsible for associated risk, compliance, and legal requirements.
+
+A Third-Party Intermediary, or TPI, is a third party involved in any of the following activities:
+
+- Interacting with Government Officials on behalf of the Firm, such as obtaining permits, licenses, visas, or customs clearances.
+- Assisting or collaborating with the Firm to find, develop, or retain clients, including Advisors, Suppliers, or Client-Facing Collaborators involved in relationship building for the Firm.
+- Assisting Client Service Teams in a client-facing capacity to provide any service.
+
+The Firm can be held responsible for improper actions taken on its behalf by TPIs, even when Firm members are unaware of the improper actions.
+
+The term Government Official is defined broadly under anti-corruption laws and the Anti-Corruption Policy. Firm members should confirm whether a TPI will interact with Government Officials before engagement.
+
+This procedure does not apply to Procurement Intermediaries.
+
+Optimize is responsible for overall oversight and management of the Firm's third-party program.
+
+Relationship Owners who need to engage a TPI must complete onboarding and evaluation before the TPI begins services. The process includes:
+
+- An onboarding questionnaire with anti-corruption questions.
+- A risk-based due diligence review that evaluates corruption and compliance risks from adverse media, red flags, or other risk indicators.
+- A tailored process for Suppliers, External Workers, and Client-Facing Collaborators.
+
+At the initial onboarding stage:
+
+- The Relationship Owner must complete the relevant intake form, such as Aravo for Suppliers, Magnit for External Workers, or the MCN portal for Client-Facing Collaborators.
+- The prospective TPI must complete an onboarding questionnaire that includes anti-corruption trigger questions.
+
+If a Supplier, External Worker, or Client-Facing Collaborator meets anti-corruption trigger criteria, the TPI is escalated to the Anti-Corruption Compliance group within Ethics & Compliance for risk-based due diligence.
+
+Ongoing monitoring is required because a TPI's risk level can change over time based on changes to scope, location of services, ownership, control, or emerging red flags. If monitoring reveals anti-corruption red flags, Optimize escalates the TPI to the Anti-Corruption Compliance group.
+
+All other third parties, whether classified as TPIs or not, must also be monitored by Optimize for potential anti-corruption triggers. If triggers are identified at onboarding or during the relationship, Optimize must notify the Anti-Corruption group for additional review.
+
+After due diligence is completed, the Anti-Corruption Compliance group provides a written decision and any guardrails to Optimize. Optimize communicates them to the Relationship Owner.
+
+After successful due diligence and approval, the Relationship Owner must:
+
+- Ensure there is an executed contract with relevant anti-corruption clauses, in consultation with Firm Legal as needed.
+- Ensure services and payment terms are clearly defined in the contract or statement of work.
+- Verify that the contract is executed before the TPI provides services.
+- Make sure services stop when the contract or statement of work expires.
+
+Any deviation from standard anti-corruption clauses or contract requirements must be reviewed and approved by Firm Legal and, where appropriate, the Anti-Corruption Compliance group.
+
+Approved TPIs escalated for Anti-Corruption Compliance review may be subject to guardrails, anti-corruption certification, training, or payment blocks if requirements are not met.
+
+If a TPI is rejected through the due diligence process, the Anti-Corruption Compliance group communicates the rejection in writing to the Relationship Owner and Optimize. If the Relationship Owner wants reconsideration, they must submit the facts, circumstances, and justification for review. The Anti-Corruption Compliance group, in consultation with Firm Legal, makes the final decision.
+
+Rejected TPIs are removed from the Firm's third-party management system and blocked for payment.
+
+TPIs must go through periodic, risk-based due diligence refreshes after onboarding. The Anti-Corruption Compliance group may require more frequent refreshes for a specific TPI.
+
+Relationship Owners must immediately inform Optimize if they learn of a change in a TPI's ownership or control, or any potential corruption concern.
+
+The Relationship Owner or Optimize must immediately notify the Anti-Corruption Compliance group if:
+
+- A third party not previously engaged as a TPI changes its scope of services and now falls under the TPI definition.
+- A TPI previously engaged but not escalated for review has a change in scope or circumstances that now triggers escalation.
+- A TPI previously approved by Anti-Corruption Compliance has an additional risk factor requiring review, such as a Government Official requesting that the Firm use the TPI.
+
+Higher-risk TPIs may be required to complete anti-corruption training according to the Anti-Corruption Compliance group's instructions and content requirements.
+
+Firm Legal and the Anti-Corruption Compliance group may exercise audit rights where applicable to verify that TPI transactions or activities align with the TPI's contract.
+
+The Anti-Corruption Compliance group may require TPIs to certify compliance with their contracts and applicable anti-corruption laws. Emerging matters may also prompt risk-based interim certifications.
+
+Firm members managing TPI relationships or working with TPIs must remain alert for red flags throughout onboarding and the engagement.
+
+Red flags in TPI relationships include:
+
+- A history of corruption in the country where the TPI is located or where services are provided.
+- Reports of suspicious, unethical, or unlawful conduct by the TPI.
+- Apparent lack of qualifications or resources to perform the services.
+- The TPI being in a different line of business from the services for which it is engaged.
+- Refusal to identify owners or subagents.
+- The TPI being a shell company or located in an offshore jurisdiction unrelated to where services will occur.
+- The TPI being suggested or required by a client or Government Official, especially one with discretionary authority over the Firm's work.
+- Close personal, family, or business relationships between the TPI and a client, Government Official, or their relatives.
+- Refusal without reasonable justification to agree to anti-corruption terms or sign a compliance certification.
+- Vague service descriptions in the contract.
+- Requests to bypass formal contracting procedures.
+- Unusual payment patterns, including cash or gift payments, payments through other third parties, offshore payments, advance payments, success fees, unusually high commissions, unusually large discounts, inflated invoices, or payments outside contract terms.
+- Lack of transparency in expenses or accounting records.
+- Undue pressure for urgent, above-market, or otherwise inappropriate payments.
+
+Anti-corruption trigger criteria for Suppliers include whether the Supplier:
+
+- Will interact with Government Officials on behalf of the Firm.
+- Will help find, develop, or retain clients.
+- Was recommended by a Government Official.
+- Has an owner, ultimate beneficial owner, shareholder, or key executive who is a current or recent Government Official.
+- Has an owner, shareholder, or key executive related to or closely connected with a Government Official.
+- Has relevant people who have been subject to allegations or investigations involving fraud, misrepresentation, bribery, corruption, financial crimes, or related activities in the past five years.
+
+Anti-corruption trigger criteria for External Workers include whether the External Worker:
+
+- Will assist in a client-facing capacity for Government entities or public sector clients, or otherwise interact with Government Officials on the Firm's behalf.
+- Will help find, develop, or retain clients.
+- Was recommended by a Government Official.
+- Is a current or recent Government Official.
+- Is related to or closely connected with a Government Official.
+- Has been subject to allegations or investigations involving fraud, misrepresentation, bribery, corruption, or financial crimes in the past five years.
+
+Anti-corruption trigger criteria for Client-Facing Collaborators include whether the collaborator:
+
+- Will be involved in client-facing projects connected to Government entities or public sector clients.
+- Will interact with Government Officials on behalf of, or in matters related to, the Firm.
+- Will help find, develop, or retain clients.
+- Was recommended by a Government Official.
+- Has an owner, ultimate beneficial owner, shareholder, key employee, or key executive who is a current or recent Government Official.
+- Has relevant people related to or closely connected with a Government Official.
+- Has relevant people who have been subject to allegations or investigations involving fraud, misrepresentation, bribery, corruption, financial crimes, or related activities in the past five years.
+
+Any suspected improper payment or violation of this procedure or the Anti-Corruption Policy must be reported immediately through the Firm's concern-reporting channel.
+
+Any exception to this procedure must be reviewed and approved in advance by Firm Legal and the Anti-Corruption Compliance group.
+
+Non-compliance may result in disciplinary action, including separation from the Firm.

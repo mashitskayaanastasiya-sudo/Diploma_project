@@ -1,0 +1,47 @@
+Global GEM Practice Compact - C&A
+
+This compact provides risk guidance for C&A work. Work categories are grouped by risk level and approval requirements.
+
+Work that is not approved in this space should not be performed.
+
+High-risk work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders, plus ongoing deliverable review.
+
+Medium-risk-plus work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders.
+
+Work not approved or requiring heightened review includes:
+
+- Work on cannabis, including CBD, where it is unlawful or unregulated.
+- Advice on legal issues such as patent defendability or infringement.
+- Helping clients solidify, advocate, or justify denial of climate change.
+- Work that circumvents regulatory processes.
+- Work that supports expansion of agricultural land into environmentally protected areas.
+- Work for clients facing forced labor litigation or state investigation.
+- Work related to cannabis or CBD where it is lawful and regulated.
+- Work with industry associations.
+- Closed-loop digital or analytics models for operations where there is potential safety impact.
+- Joint ventures or partnerships where one client's gain may negatively affect another client's performance or outcome.
+- Advice on political risks or public policy, including food security, trade policy, commodity reserves, or work perceived as influencing policy.
+- Work on high-risk chemistry, including PFAS, cyanide tailings, and other poisonous chemistry or waste products.
+- Work on chemicals circularity, including plastic reuse and recycling.
+- Work for clients facing forced labor allegations without formal litigation or state investigation.
+- Work on land use change or competition for land, including agriculture, sustainable food use of land, forestry, and biomass.
+- Work on novel foods and ingredients, including alternative protein.
+- Commercial or pricing projects for products, especially green products, that are not subject to settled regulations across geographies.
+- Commodity marketing, trading, commercial optimization, or trading risk management advice.
+
+Additional medium-risk considerations include:
+
+- New business or ecosystem convening on behalf of a client, such as cloud services, data shops, incubators, digital marketplaces, or carbon credits.
+- High-risk decision-making support systems that may adversely affect a client's core business, including commodity trading or pricing.
+- Advice on health, safety, and environment or topics that could affect health, safety, and environment.
+- Network redesign work affecting local economies, such as smallholder supplier communities or workforce implications.
+- Crisis response.
+- Labor topics that may include immigration discussions.
+- Operations work posing business continuity risks, such as potential site shutdowns affecting local economies.
+- Technology that reduces human involvement in favor of artificial intelligence or machine learning where it could be perceived as harmful.
+
+Work for chemical and other companies with business units or subsidiaries manufacturing consumer firearms, ammunition, defense items, or other sensitive technologies that can be used against civilians must follow the relevant service line boundaries in Firm policy and applicable compacts.
+
+Teams should contact Client Service Risk when questions or doubts arise.

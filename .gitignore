@@ -1,0 +1,14 @@
+.env
+.streamlit/secrets.toml
+logs/
+__pycache__/
+*.pyc
+venv/
+.vscode/
+files with code/
+Diploma text.docx
+my_tuned_model-20260515T121335Z-3-001.zip
+chroma_db/
+compliance_db/
+streamlit run app.py.txt
+Articles/Corpus.xlsx

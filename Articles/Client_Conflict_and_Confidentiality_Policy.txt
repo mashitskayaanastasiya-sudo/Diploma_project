@@ -1,0 +1,77 @@
+Client Conflict and Confidentiality Policy
+
+This policy applies to all Firm members.
+
+The Firm's longstanding policy is to serve competing clients. Firm members must keep client confidential information confidential at all times, whether they serve competing clients or not.
+
+Competition is defined broadly to include any situation where organizations have opposing interests. Competition can include:
+
+- Direct competition in a product or service market.
+- Competition for economic surplus in a supply or distribution system.
+- Competition for resources.
+- Efforts to set or influence product standards or regulatory policies.
+- Corporate action by one client that could significantly hinder another client's current strategy.
+- Diverging interests among private, public, social, or state-linked sector entities.
+
+As a global practice, the Firm does not enter into exclusivity agreements with clients. Rare exceptions must be narrowly scoped and require prior CSRC approval. An office or Client Capability may decide not to serve a specific client, but may not commit on behalf of the Firm not to serve one of that client's competitors.
+
+Where the Firm holds or acquires equity or equity-like interests in a client, transaction counterparty, or potential Firm acquisition target, the Standard on the Management of Equity-Based Conflicts of Interest applies.
+
+Firm members must keep all client confidential information confidential and may disclose it only to those who need to know to serve or enable service to the client on a given engagement.
+
+Confidential information includes all non-public information obtained or developed while serving a client, including:
+
+- Competitively sensitive information, such as price, output, capacity, or customer identity.
+- Information derived from third-party sources available only through client-provided access.
+- The fact of the Firm's retention by the client.
+
+The DCS is accountable for ensuring that confidential client information is not disclosed outside those who need to know throughout the client relationship, including during client development. For individual engagements, the Accountable Senior Partner is also accountable for confidentiality within the engagement scope.
+
+No Firm member who has served a client or acquired confidential information about that client may serve a competitor if the information could be used, or perceived to be used, to the first client's material disadvantage, or if serving both clients could create antitrust risk.
+
+This restriction lasts as long as the confidential information has significant competitive value. The default period is two years, but CSTs must consult the specific requirements in relevant sector conflict guidelines.
+
+Before staffing a new engagement, participating in client development, or receiving client confidential information, Firm members must assess conflicts using the CIRPA framework:
+
+- Competition: what are the competitive dynamics between the clients?
+- Information: what information was the team member previously exposed to?
+- Role: what is the team member's role on relevant CSTs, and how might it evolve?
+- Perception: how would clients or others view the staffing decision?
+- Agreement: do client agreements create additional restrictions?
+
+Firm members must raise potential staffing conflicts before being staffed or participating in client development. The Accountable Senior Partner must understand the relevant sector conflict guidelines and ensure the team includes only non-conflicted individuals.
+
+Experts brought in from outside the CST must avoid acquiring confidential information. When introducing an expert to a client, the Engagement Director or expert must explain the expert's role and advise the client not to disclose confidential information it would not want known to someone serving competitors.
+
+Certain situations require additional precautions:
+
+- Personal conflicts of interest, such as a household member working for a client or competitor, personal investments, or approved outside activities, must be raised promptly.
+- A member of a target CST may not serve a potential acquirer before the deal closes unless Client Service Risk approves.
+- Purchaser-supplier engagements may restrict Firm members from serving commercial counterparties even on unrelated work where sensitivity is high.
+- A Firm member serving on an Alliance Service Team for a client-facing collaborator may not also serve a client assessing whether to work with that collaborator or its competitors.
+
+Firm members must avoid any implication that the Firm is advising a client to engage in anticompetitive conduct. Anticompetitive conduct can include agreements with competitors on pricing, abuse of dominant or monopoly position, or other violations of antitrust or competition law.
+
+Competitively sensitive information is confidential information about a party's current or future market conduct that a competitor could use to its advantage. It includes current or future pricing, production information, customer lists, and future marketing strategy.
+
+A Firm member who obtains competitively sensitive information from one client or party may not disclose it to a competitor or seek equivalent information from a competitor unless a legally reviewed setup, such as a clean team, has been established.
+
+Institutional conflicts may limit the Firm's ability to serve clients. Examples include:
+
+- The Firm has a financial interest in a target, acquirer, proposed client's competitor, or potential M&A transaction.
+- A proposed client or M&A target has activities or service lines that compete, or could be perceived to compete, with the Firm.
+- The Firm seeks to serve one or more clients on a transaction that is, or may become, hostile or highly contentious.
+- Law or regulation creates disclosure or conflict requirements, including U.S. organizational conflicts of interest rules.
+
+Special precautions are required in shared workspaces:
+
+- Highly sensitive engagement teams may not work in open seating areas or shared enclosed offices unless the areas are exclusively used by the team and access is restricted.
+- Workspaces must provide reasonable visual privacy.
+- Confidential conversations must occur only where they cannot be overheard.
+- Shared areas must include lockable storage, privacy filters, shredders or secure destruction bins, appropriate printer placement, and visible confidentiality signage.
+
+Office and location managers are responsible for compliant office infrastructure. Individual Firm members are responsible for assessing their work environments, including client sites and home offices, and taking measures needed to protect confidentiality.
+
+Firm members must comply with this policy, act with integrity, and report violations. The Firm does not tolerate retaliation for good-faith reporting or participation in a review or investigation.
+
+Failure to comply may result in disciplinary action, including separation from the Firm. For third parties engaged by the Firm, violations may lead to consequences up to termination of the arrangement.

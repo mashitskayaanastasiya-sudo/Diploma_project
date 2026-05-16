@@ -1,0 +1,89 @@
+Purchaser-Supplier Engagement Standard
+
+This standard provides additional risk management requirements for purchaser-supplier engagements and is enforceable under the Client Service Policy.
+
+The standard applies globally to paid and unpaid engagements where the Firm supports a client on issues that will or could directly affect commercial terms with the client's suppliers or purchasers.
+
+Commercial terms include:
+
+- Revenues.
+- Costs.
+- Profit.
+- Margin.
+- Volumes.
+- Price.
+- Contractual terms with suppliers.
+- Price or contractual terms with specific purchasers.
+- Broader commercial relationships with third parties, including supplier performance management.
+
+These engagements are called purchaser-supplier engagements, or PSEs. PSEs are not limited to procurement work. They may arise in operations, marketing and sales, transformation, digital and analytics, cybersecurity, LEAP outside breakout phase, and other areas.
+
+Examples of PSEs include:
+
+- Supplier selection support.
+- Procurement-related cost optimization.
+- Sales-related price optimization.
+- Commercial proposal review.
+- End-to-end negotiation support.
+- RfX response preparation.
+- Supplier productivity improvement.
+- Supplier performance management.
+
+PSEs generally do not apply to merger, acquisition, and alliance engagements, but they may apply when supporting a tender process to select a joint venture partner or helping joint venture partners optimize a shared supplier base.
+
+The responsible partner is responsible for identifying whether an engagement is a PSE and completing required pre-engagement steps. If the scope changes, the responsible partner must update the PSE registration in Engage and complete requirements within seven days.
+
+Before PSE-related work begins, the responsible partner must:
+
+- Flag the engagement as PSE in the Engage risk assessment.
+- Select a Purchaser/Supplier Certified Professional in Engage.
+- Obtain the certified professional's written confirmation of support.
+- Confirm that all Firm members working on the PSE have completed PSE eLearning within the past 12 months or will complete it as required.
+- Confirm that anyone staffed later completes PSE eLearning within seven calendar days.
+- Obtain written approval from Compliance for any exception to the eLearning requirement.
+
+If the team plans to share confidential information or information the client could use with suppliers or purchasers during the proposal phase, the responsible partner must consult the PSE team and discuss confidentiality requirements with the client.
+
+For new engagements, the responsible partner must:
+
+- Discuss confidentiality of the Firm's work with the key client sponsor.
+- Obtain email confirmation from the client that the Firm's involvement will remain confidential and behind the scenes.
+- Confirm the client will inform its team of the confidentiality requirement.
+- Upload the confirmation to Engage.
+
+For continuation engagements with a valid client confirmation from the past six months and the same key client sponsor, the prior confirmation may be reused. The responsible partner must ensure new client team members are informed and existing members are reminded.
+
+For joint-services agreements with multiple clients, the responsible partner must submit a separate confirmation for each client organization unless the consortium is a separate legal entity and members have no visibility.
+
+If a planned exception is known before the engagement is confirmed, the responsible partner must raise it to the PSE team and obtain approval before making commitments to the client.
+
+During a PSE, the responsible partner must ensure that no Firm member discloses the Firm's support or directly interacts with the client's current or potential suppliers or purchasers. This includes meetings, workshops, emails, calls, and passive observation.
+
+The client should not include Firm members on emails with suppliers or purchasers.
+
+Limited exceptions may apply for:
+
+- Online RFx and auction tools, where trained Firm members may interact on non-price matters without revealing the Firm's name, role, or retention by the client.
+- Global Sourcing Centers, where dedicated analysts may interact with low-cost-country suppliers to provide local language support the client does not otherwise have.
+
+Firm members may not negotiate on behalf of the client or participate in client negotiations with suppliers or purchasers. If negotiation support is needed, the team may help the client identify and onboard external negotiators.
+
+The client must contract directly with external negotiators and pay them directly. The Firm may not be the contracting party for an external negotiator without approval from Client Service Risk and Firm Legal.
+
+All Firm members must report any confidentiality violation by a client or Firm member to the responsible partner and PSE client service risk team immediately and no later than 24 hours after learning of the incident.
+
+Materials prepared for a client to share with suppliers or purchasers must be properly sanitized. They must not identify or reference the Firm. The client must share documents directly with third parties and must not copy or mention Firm members.
+
+Firm members must follow information sharing, sanitization, and FinalDocs requirements. The responsible partner and certified professional must review and approve submissions to Firm knowledge repositories for PSE materials.
+
+A win-win exception may allow limited interaction with a client's suppliers or purchasers affected by PSE work. It is considered only when nothing is being explicitly negotiated and the Firm's role is limited and truly beneficial to all parties.
+
+To request a win-win exception, the responsible partner must contact the PSE team. The PSE team determines whether the request is standard, complex, novel, sensitive, or an archetype request that may be fast-tracked.
+
+The PSE team consults relevant non-conflicted leaders and the director of client service for the affected supplier or purchaser as required. The team then communicates the outcome and any guardrails to the responsible partner.
+
+If an exception is granted, the responsible partner must ensure all guardrails are implemented. Any interaction outside the approved guardrails or with additional suppliers or purchasers requires a new exception request.
+
+Once a supplier or purchaser learns about the Firm's support to the client, the responsible partner and assigned senior partner must ensure the team does not later support the client on work that could affect commercial terms with that supplier or purchaser for the period set by leadership, typically one to two years, unless an exception is approved.
+
+Firm members must comply with this standard, act with integrity, and report violations. Failure to comply may result in disciplinary action, including separation from the Firm.

@@ -1,0 +1,89 @@
+Processing Personal Data in Client Engagements Guidelines
+
+Maintaining client confidentiality and trust is a core value and legal obligation of the Firm. Teams must carefully manage information and data received from or about clients, or collected from other sources in the context of a client engagement.
+
+Personal data is subject to extensive requirements under data privacy laws and regulations. Proper use and processing of personal data is critical to avoid legal and reputational risk.
+
+These guidelines apply to teams that collect, use, store, analyze, share, disclose, dispose of, or otherwise process personal data in client engagements. They supplement the Data Protection and Privacy Policy and the Client Data and Document Management Policy.
+
+Teams should follow these privacy principles when personal data is processed:
+
+- Process personal data only at the client's direction and only for a legitimate business purpose.
+- Process the minimum personal data necessary for the engagement.
+- Mitigate the risk of retaining personal data where possible, such as by masking, aggregating, or grouping data into ranges.
+- Understand whether sensitive personal data is being processed and what additional protections apply.
+- Protect personal data using Firm-approved systems, appropriate AI tool usage, and thoughtful data management practices.
+- Consider a data management plan where the amount, sensitivity, or retention period of personal data warrants it.
+- Ensure the team has the necessary rights to process personal data.
+- Ensure appropriate client arrangements are in place.
+- Flag in Engage any project where processing of personal data is confirmed or likely.
+- Involve the client in developing and applying personal data analytics.
+
+For all client engagements, personal data should be processed only at the client's direction. The client should provide ultimate direction and, where appropriate, decision-making for personal data processing activities.
+
+Teams should consider whether the engagement purpose aligns with COMPANY's values. For example, identifying high performers so a client can help others replicate success may align with Firm values, while excluding individuals from a benefit, incentive, or product based on sensitive characteristics or proxies may not.
+
+Personal data should be processed only where necessary to perform the engagement. Teams should be able to explain why personal data is necessary and why the data received is the minimum necessary.
+
+If a client provides personal data that is not necessary, the team should securely return or destroy it, inform the client, and work with the client to obtain only the minimum necessary data through a secure method.
+
+Teams should periodically reassess what personal data remains necessary, including at key milestones. Personal data needed for initial analyses may not remain necessary throughout the engagement.
+
+At the end of an engagement, deletion and archival must follow the Client Data and Document Management Policy. Personal data should not be retained for post-engagement analytics or benchmarking unless necessary and permitted by the client agreement.
+
+Where the engagement can be performed using aggregated data that no longer identifies individuals, teams should aggregate as early as possible. Properly aggregated data no longer constitutes personal data.
+
+Where aggregation is not feasible, teams should work with the client to pseudonymize data where possible. Pseudonymized data may still retain some identifying information but reduces the link to identifiable individuals through methods such as encryption, hashing, tokenization, removing identifiers, or other encoding mechanisms.
+
+It is stronger for the client or another third party, rather than COMPANY, to control the means of re-identification. Pseudonymized data is still personal data, but it reduces risk in the event of a security incident.
+
+Sensitive personal data includes categories such as financial account information, health or medical records, racial or ethnic origin, and unique government identifiers. Additional controls are required when processing sensitive personal data.
+
+Sensitive personal data may be processed only on an exceptional basis where required to deliver a client engagement. Processing sensitive personal data requires prior Legal and/or Risk review so appropriate contractual assurances and privacy and security controls are in place.
+
+Engagement teams should follow any practice, sector, or Center of Excellence instructions for handling sensitive data.
+
+Training requirements:
+
+- The EM, ED, and all team members with access to personal data should complete the relevant personal data digital learning module within 12 months of delivering an engagement involving personal data.
+
+Secure collection requirements:
+
+- Use only COMPANY-approved data collection and transfer methods.
+- Preferred methods include Firm-approved SharePoint or Box instances, or a COMPANY-managed SFTP site.
+- Encrypted USB drives or portable hard drives may be used only where approved methods are not feasible and the client does not prohibit them.
+- If the client transfers personal data, request a secure encrypted method.
+- Encryption keys must be stored and sent separately from the files.
+- Contact Cybersecurity for approval if Firm-approved platforms, SFTP, or encrypted mobile media are not feasible.
+
+Processing and storage requirements:
+
+- Process and store personal data only in approved systems and applications.
+- Do not use third-party websites or applications unless approved for that purpose.
+- Confirm that use of personal data with any AI tool is appropriate.
+- Store personal data in approved file-sharing sites or platforms as soon as practicable.
+- Do not store personal data locally on a laptop.
+
+Sharing requirements:
+
+- Avoid sharing personal data by email.
+- Never use a personal email account for COMPANY business.
+- Store personal data in approved file-sharing sites or platforms and share links only with those who need access.
+- Limit access to team members with a legitimate business need.
+- Do not share COMPANY or client personal data with third parties unless Legal and Cybersecurity have confirmed the third party meets Firm security and privacy standards.
+
+If a security incident may have affected the confidentiality, integrity, or security of client data or personal data, contact the Security Operations Center immediately.
+
+The Firm must have an appropriate right to use personal data for the proposed purpose.
+
+If personal data comes from the client, the team must ensure there is a Legal-approved client agreement confirming the client's right to share the personal data with COMPANY for the proposed use.
+
+If personal data comes directly from individuals, such as through a survey, the proposed use must be consistent with the use for which the data was collected, appropriate notice must have been provided, and consent must be obtained where necessary.
+
+If personal data comes from a third-party data broker or vendor, there must be a Legal-approved agreement confirming the third party's right to share the data with COMPANY for the proposed use. Legal must be contacted when COMPANY receives personal data from a third party and appends it to another dataset containing personal data.
+
+If personal data comes from public sources, including websites, collection must follow the Online Data Collection Guidelines and the proposed use must be consistent with the original collection purpose or consent.
+
+An approved client agreement is required before starting any engagement involving personal data. The agreement should state that COMPANY is an advisor, not a principal or decision-maker, that the client is responsible for legal compliance, and that COMPANY's liability aligns with its fees.
+
+Clients may request data transfer agreements or conditions on processing personal data, such as limits on storage locations or personnel locations. These restrictions may limit delivery and use of secure Firm technology or relevant experts. Contact the Legal colleague supporting the engagement if the client requests such restrictions.

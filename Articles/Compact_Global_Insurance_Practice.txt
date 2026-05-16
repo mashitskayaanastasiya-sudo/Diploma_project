@@ -1,0 +1,41 @@
+Compact Global Insurance Practice
+
+This compact does not supersede other Firm policies or guidelines. Partners and CSTs remain responsible for complying with the Client Service Policy, M&A and Serving Competitors guidance, and any other relevant sector compacts for the specific client or engagement context.
+
+Work that is not approved includes:
+
+- Actuarial certification.
+- Pricing work that could be perceived as anti-competitive.
+- Regulatory advocacy, public policy advocacy, or lobbying.
+- Indemnity for specific claims.
+- Investment-related advice.
+- Insurance work in areas where the Firm otherwise does not work, including cannabis, tobacco, opioids, civilian firearms, or corrections facilities.
+
+High-risk work requires CSRC approval with input from PRACL and other relevant cell leaders, as well as ongoing deliverable review. Examples include:
+
+- Indemnity accuracy improvement on bodily injury or material damage claims.
+- Advanced analytics or GenAI-based claims transformation.
+- Claims fraud management.
+- Work in response to a specific government inquiry.
+- Capital and balance sheet management where the work relates to financial resource management, risk appetite, or specific investment regulations.
+- Work for industry associations.
+- Work for government-owned or government-backed insurers and reinsurers.
+- Work for specialty insurers covering risks associated with potentially controversial technology.
+- Fees at risk based on milestones or deliverables more within the Firm's control, including operational metrics or referral rates.
+- Fees at risk based on milestones or deliverables outside the Firm's direct control, such as volume, where CSRC review may be required.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders. Examples include:
+
+- Work related to market-based pricing.
+- Product development.
+- Sales campaigns.
+- Investment management.
+- Stress testing.
+- Other claims topics.
+- Regulatory work that helps a client comply with new regulation with established requirements.
+- Work that could disproportionately affect smaller or vulnerable populations, including work supporting withdrawal from or moratoriums on higher-risk areas where insurance availability or affordability could be affected.
+- DnA projects involving policyholder data, including analytics that segment policyholders by potentially sensitive characteristics.
+- Client-facing Firm software.
+- GenAI work.
+
+CoRE registration is required for relevant DnA, client-facing software, and GenAI work. Teams should contact the regional Practice Manager and relevant risk leaders for guidance before proceeding.

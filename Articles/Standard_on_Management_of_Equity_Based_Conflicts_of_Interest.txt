@@ -1,0 +1,68 @@
+Standard on the Management of Equity-Based Conflicts of Interest
+
+This standard supplements and is enforceable under the Client Conflicts and Confidentiality Policy.
+
+The standard applies globally to all client engagements and all situations where the Firm holds or may acquire equity in:
+
+- A client.
+- An actual or prospective transaction counterparty of a client.
+- A potential Firm acquisition target or collaborator.
+
+Equity includes:
+
+- Direct public or private equity, or similar interests such as partnership units.
+- Convertible notes.
+- Warrants and options, regardless of vesting conditions.
+- Synthetic constructs designed to replicate direct equity returns.
+
+The requirements apply regardless of the size of the Firm's equity holding and whether the equity is held directly or indirectly.
+
+The Firm's ability to take equity in entities that clients may consider direct competitors must be disclosed to all Firm clients through the Statement of Professional Practices, Master Services Agreement, or other engagement documentation.
+
+Specific disclosure of the Firm's equity in another client is required only in limited zero-sum conflict situations where the Firm's equity in one client could be perceived as putting the Firm in direct commercial competition with another client, and where one party's growth necessarily comes at the expense of the other.
+
+The relevant client DCSs, Global Cell Leader, and CSRC determine whether a zero-sum conflict exists.
+
+Specific disclosure of a limited partnership interest in a private equity or equivalent fund may be required where the fund's industry, investment thesis, or likely targets create direct competitor conflict concerns not adequately addressed by general disclosure. The CST and relevant industry sector leaders make this determination with Firm Legal and Client Service Risk.
+
+Specific disclosure of Firm equity holdings should be made only under a non-disclosure agreement unless legal or regulatory reasons require otherwise.
+
+The Firm may take a limited partnership interest in a private equity or equivalent client fund concurrently with a preferred provider relationship only if:
+
+- The preferred provider relationship stands on its own merits.
+- The client receives value from advisory services in return for preferred provider status.
+- The Accountable Senior Partner ensures appropriate contractual representations or warranties from the fund manager.
+- The fund manager receives conflicts and disclosure considerations to address.
+- The preferred provider arrangement does not guarantee fees or service volume.
+- The Firm does not receive terms or conditions unavailable to other LPs or co-investors, except where the Firm qualifies for terms available to a subset of investors.
+
+Before seeking approval for an LP interest, the client DCS must perform CITIO scrutiny of the GP and investment decision-making. The DCS is also accountable for CITIO scrutiny for client service to a portfolio company in which the Firm has equity through an LP interest.
+
+Before committing to an LP arrangement, the DCS must obtain contractual carveout rights for categories of investment where the Firm will not participate as a matter of policy.
+
+Transaction-specific conflicts must be identified as early as possible. An institutional conflict check should be completed before any client commitment for new transaction-related support. The Responsible Partner should initiate Engage and include all transaction party names.
+
+Where an equity-related conflict exists, a client service team may provide transaction-related support only where both buyer and seller are privately held and required disclosures, conflict waivers, and indemnities are obtained.
+
+If the Firm has equity in a private seller, the Firm must disclose the holding to the prospective buyer and receive waivers and indemnification from both parties.
+
+If the Firm has equity in a private buyer, the Firm must disclose the holding to the prospective seller and receive waivers and indemnification from both parties.
+
+If the buyer is unknown when sell-side support begins and a conflict later emerges, the Firm must disclose the equity holding to the non-equity client and receive waivers and indemnification from both parties. If the required waiver and indemnification cannot be obtained, the Firm must decline the buy-side work.
+
+Conflicts can arise from the Firm's own M&A activity. Where the Firm M&A team is pursuing a potential acquisition target and has stage 1 approval from the M&A Committee, a client service team may not provide transaction-specific support for any client also interested in the target. Conversely, the Firm M&A team may not pursue a target where a client service team is already supporting a client with diligence of that specific target.
+
+The Firm M&A team and client service teams must submit separate conflict checks for potential conflicts arising from Firm M&A activity.
+
+Conflicts can also arise from Firm procurement. Client service teams serving equity clients may not directly or indirectly influence Firm procurement, Firm operations decisions, or other client service team recommendations to advantage their own clients.
+
+With DCS approval, a client service team member may refer a requesting equity client to the relevant decision-makers under the Sustainable Procurement and Responsible Buying Policy. No member of the client service team may be further involved in Firm decision-making unless the client initiates its own process.
+
+The Firm must disclose to all clients that it may serve clients using capabilities or solutions that other clients consider competitive with their own. Actual or perceived conflicts involving competition between a Firm solution and client offering must be resolved by the applicable Cell Leader or non-conflicted regional leader.
+
+Firm publications and communications require appropriate disclosures:
+
+- General disclosure of Firm interests is required in written publications and oral communications discussing an industry sector.
+- Specific disclosure of Firm equity in a particular client is required in written publications referencing the client and in oral communications that include detailed discussion of the client.
+
+Named authors, with Strategic Communications colleagues, are responsible for ensuring appropriate disclosures.

@@ -1,0 +1,70 @@
+Global TLI Compact
+
+This compact provides TLI conflict guidance. It does not supersede the Client Service Policy or other Firm policies and guidelines. Partners and client service teams remain responsible for complying with all applicable Firm policies, including M&A, serving competitors, and any other relevant sector compacts for the client or engagement.
+
+Risk levels determine the required approval path.
+
+Work that is not approved in this space should not be performed.
+
+High-risk work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders, plus ongoing deliverable review.
+
+Medium-risk-plus work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders.
+
+Additional considerations apply to engagement parameters and topics.
+
+Restricted or high-risk situations include:
+
+- Directly serving a client in Chapter 11.
+- FARA-related work.
+- Work for distributors whose main source of income is tobacco distribution.
+- Work on individual compensation, performance assessment, selection, evaluation, or termination of specific employees.
+- Work for gambling clients on the strategy, content, or design of marketing, promotions, or loyalty programs.
+- Airline work in a country with poor airline safety ratings.
+- Working as a prime contractor for engineering, legal, or investment advisor firms.
+- Operations, maintenance, safety, or infrastructure work for companies with poor safety records in the last three years where the work relates to those risk areas.
+- Infrastructure work in countries with known corruption concerns.
+- Gambling client work involving access to personal information or supporting growth of the gambling business.
+- Topics that touch or could materially affect heavy asset safety.
+- Immigration and border control.
+- Surveillance.
+- Pricing work in highly consolidated markets such as rail, airlines, rental cars, post, and parcel.
+- Crisis response.
+- Regulatory strategy or other work related to regulations for private sector clients.
+- Casino and gambling-related clients, including brick-and-mortar casinos, omnichannel players, B2B providers, lotteries, and gambling on cruises.
+- Biometrics, facial recognition, and other dual-use technologies.
+- Safety or maintenance work in rail, shipping, and airlines without appropriate expert involvement.
+- Work related to autonomous vehicle implementation.
+- Work for non-U.S. government or state-linked entities with a U.S. nexus, including U.S. government interaction, investment attraction, industrial development, tourism, or image burnishing.
+- Work touching maritime transport of oil and petroleum products.
+- Serving financially distressed organizations.
+
+Standard Firm processes still apply, including registrations, staffing certified partners, and consulting Legal where required.
+
+If the client is a state-linked entity, state-owned enterprise, or public sector entity, the SHaPE compact rules also apply and must be followed in addition to TLI requirements.
+
+Teams should register work for public, social, and state-owned sector clients and industry associations where required.
+
+Additional attention is needed for topics related to:
+
+- Digital and analytics.
+- Maintenance.
+- M&A.
+- Procurement.
+- Pricing.
+- Health, safety, quality, and other safety topics.
+
+Operational considerations include:
+
+- Fees at risk.
+- Work involving frontline operations.
+- Partnering arrangements.
+- Technology deliverables.
+- Advanced analytics.
+- Solutions.
+- Personal information.
+
+For countries with corruption concerns, the Corruption Perceptions Index may be used as an indicator. Work in countries below the relevant score threshold may require a separate compact review.
+
+Work touching the Russia Oil Price Cap policy must be reviewed by Risk and Legal before confirmation.

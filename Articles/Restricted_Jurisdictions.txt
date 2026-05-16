@@ -1,0 +1,32 @@
+Restricted Jurisdictions Under the Firm's International Trade Controls Policy
+
+Services are prohibited in:
+
+- Cuba.
+- Iran.
+- North Korea.
+- Russia.
+- Crimea.
+- The territories of Donetsk, Kherson, Luhansk, and Zaporizhzhia regions that are not controlled by the government of Ukraine.
+
+No work, Firm travel, or COMPANY services may relate to these jurisdictions.
+
+Firm devices, including phones, computers, SIM cards, and work materials, may not enter these jurisdictions. Phones are allowed in Russia.
+
+Connectivity is blocked for internal and external users located in these jurisdictions through Geo IP blocking.
+
+Services are broadly restricted in:
+
+- Belarus.
+- Syria.
+- Venezuela.
+
+Sanctions and export controls restrict the Firm from virtually any work related to Belarus and Venezuela. Some private sector projects may be legally permitted, subject to CSRC approval.
+
+Syria remains designated by the United States as a state sponsor of terrorism. Services that directly benefit the Syrian government are restricted.
+
+Certain individuals or companies can be sanctioned because they are designated on sanctions lists or owned by designated persons.
+
+Business with certain counterparties and industries can be restricted, including semiconductors, dual-use industries, Entity List parties, and Military End-Use or Military End-User contexts.
+
+Submit a sanctions screening request through the Firm's sanctions screening portal to check for sanctions risks.

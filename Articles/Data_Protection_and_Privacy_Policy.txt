@@ -1,0 +1,49 @@
+Data Protection and Privacy Policy
+
+Firm members may access or create personal data about individuals during their work, including data about other Firm members, job applicants, service providers, and clients.
+
+The Firm is committed to protecting all personal data it processes in the course of its business. Firm members may use or disclose personal data only as necessary in good-faith performance of their duties and in accordance with this policy, other applicable Firm policies and standards, and applicable law.
+
+Personal data means data relating to an identified person or a person who can be identified directly or indirectly. Sensitive personal data is a subset of personal data that is subject to additional restrictions, obligations, privacy measures, or security measures.
+
+Processing personal data means any operation performed on personal data, including collection, recording, storage, retrieval, analysis, combination with other data, transmission, disclosure, or deletion.
+
+This policy applies to all Firm members and sets global requirements. If applicable data protection or privacy law requires a higher standard, the legal requirement prevails.
+
+Responsible Partners must flag in Engage any engagement where personal data is confirmed or likely to be processed.
+
+If a Firm member suspects a security incident that could compromise the confidentiality, integrity, or security of personal data, they must promptly report it to the Security Operations Center.
+
+Firm members must comply with the following data protection and privacy principles when processing personal data:
+
+- Fairness, lawfulness, and transparency: personal data must be processed fairly, on a valid legal basis, and individuals must be provided information about how and why their personal data is processed.
+- Human oversight: Firm members must not adopt decisions affecting individuals based solely on automated processing, or allow such decisions without human oversight, unless Firm Legal approves.
+- Purpose limitation: personal data must be collected only for a specific, explicit, and legitimate purpose. Later processing must be compatible with that purpose unless the data subject consents or the law otherwise permits it.
+- Data minimization: only personal data that is adequate, relevant, and limited to what is necessary may be collected.
+- Data accuracy: processes must ensure personal data is accurate, complete, and kept up to date.
+- Individual rights: data subjects must be allowed to exercise their legal rights, such as access, rectification, and erasure.
+- Storage limitation: personal data must be kept only as long as needed for the purpose for which it was collected, for a further permitted purpose, or as required by law.
+- Data security: appropriate security measures must protect personal data, including when third parties process it on the Firm's behalf. Actual or potential personal data breaches must be reported immediately.
+
+When the Firm processes personal data on behalf of another party, such as a client that determines the purposes and means of processing, Firm members handling the data must at minimum follow purpose limitation, data minimization, storage limitation, and data security principles. The Firm will also provide reasonable cooperation to help the relevant controller meet its legal obligations where possible.
+
+Firm members handling personal data during an engagement must follow the Guidelines on Processing Personal Data in Client Engagements and the Client Data and Document Management Policy.
+
+The Firm's Privacy Teams maintain a Privacy Program overseen by the Global Privacy Officer. Firm members must cooperate with the Privacy Teams in implementing the program.
+
+The Privacy Program includes:
+
+- Records of processing activities, including purposes, categories of personal data, international transfers, and other information required by law.
+- Privacy by design guidance and advisory services for new processing activities, new functionalities, and tools that process personal data.
+- Data Protection Impact Assessments for high-risk processing activities, including assessment of risks and safeguards.
+- A network of privacy personnel, including the Global Privacy Officer, Legal and E&C Privacy Teams, Data Protection Officers, and other assigned privacy contacts.
+- Vendor management processes to evaluate suppliers' adherence to privacy obligations before onboarding and during the relationship.
+- Processes to handle data subject requests, inquiries, and complaints from individuals, authorities, and regulators.
+- Cross-border transfer processes to ensure transfers outside the collection jurisdiction use compliant transfer mechanisms.
+- Security measures aligned with the Firm's Information Security Policy, Acceptable Use of Technology Policy, and Data Classification Model.
+- Audit and monitoring to assess whether privacy processes are properly designed, effective, followed, and remediated when issues are found.
+- Training so Firm members who collect, process, or access personal data receive role-appropriate data protection and privacy training, including mandatory annual training.
+
+Firm members must comply with this policy, act with integrity, and report violations. The Firm does not tolerate retaliation for good-faith reporting or participation in a review or investigation.
+
+Failure to comply with this policy may result in disciplinary action, including separation from the Firm. For third parties engaged by the Firm, violations may lead to consequences up to and including termination of the arrangement.

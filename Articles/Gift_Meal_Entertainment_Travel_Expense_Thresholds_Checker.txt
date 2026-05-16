@@ -1,0 +1,44 @@
+Gift, Meal, Entertainment, and Travel Expense Thresholds Checker
+
+This reference sets pre-approval thresholds for gifts, meals, entertainment, travel, hotel, and ground transportation expenses provided to government officials and other recipients.
+
+Thresholds vary by country or geographic region and by recipient type. Government officials generally have lower thresholds and stricter requirements than other recipients.
+
+For many countries, the standard government official threshold is:
+
+- US $50 for gifts, meals, entertainment, or ground transportation.
+- Pre-approval for all other travel or hotel expenses.
+- US $200 per person aggregate expenses per calendar year.
+
+For many countries, the standard threshold for all other recipients is:
+
+- US $350 for gifts or meals.
+- US $500 for entertainment.
+- US $50 for ground transportation.
+- Pre-approval for all other travel or hotel expenses.
+- US $1,000 per person aggregate expenses per calendar year.
+
+Some countries require advance pre-approval for all expenses to government officials.
+
+Some countries have lower local-currency thresholds for government officials. Examples include:
+
+- Azerbaijan, where pre-approval is required above the stated local-currency threshold.
+- Brazil, where pre-approval is required above the stated local-currency threshold.
+- Mainland China, where pre-approval is required above the stated local-currency threshold.
+- Singapore, where gifts and meals above the stated local-currency threshold require pre-approval and all entertainment and travel expenses require pre-approval.
+- South Africa, where gifts and meals above the stated local-currency threshold require pre-approval and all entertainment requires pre-approval.
+- South Korea, where the government official threshold also applies to employees of private media outlets and private schools.
+- Spain, where pre-approval is required above the stated local-currency threshold.
+- Taiwan, where pre-approval is required above the stated local-currency threshold.
+
+Some countries or regions prohibit gifts, meals, entertainment, or travel to government officials, or require contact with the anti-corruption compliance team before proceeding.
+
+Restricted jurisdictions require special handling. Gifts, meals, entertainment, and travel may be prohibited and the compliance team must be contacted before any activity.
+
+If a Firm member has already provided gifts, meals, entertainment, travel, or hotel expenses to a recipient during the calendar year, additional expenses may require advance approval even if a single new expense is below the ordinary threshold.
+
+Firm members must check the applicable country or region threshold before offering, giving, or reimbursing anything of value.
+
+When the recipient is a government official, public-sector employee, state-owned or state-linked enterprise employee, political party representative, public international organization employee, or similar covered person, the government official threshold should be applied unless Compliance provides different guidance.
+
+If a country-specific rule says to contact Compliance, Firm members should not proceed until Compliance guidance is obtained.

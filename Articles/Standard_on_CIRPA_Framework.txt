@@ -1,0 +1,52 @@
+Standard on CIRPA Framework
+
+This standard supplements and is enforceable under the Client Conflict and Confidentiality Policy.
+
+Before being staffed on a new engagement or receiving client confidential information, Firm members must assess potential staffing conflicts using the CIRPA framework.
+
+CIRPA dimensions:
+
+- Competition.
+- Information.
+- Role.
+- Perception.
+- Agreement.
+
+Competition means clients have opposing economic interests, whether in the private, public, or social sector. Competitors may include:
+
+- Horizontal competitors in an economic market or service line.
+- Vertical competitors.
+- Purchasers and suppliers.
+- Organizations with divergent public and private interests, such as regulators and regulated entities.
+
+When assessing whether two clients are competitors, consider:
+
+- The degree and nature of competitive overlap.
+- Industry concentration.
+- Competitive intensity and rivalry in the industry.
+
+Extra safeguards may be required where an industry is highly concentrated, competition is intense among a small number of players, or two clients are acknowledged archrivals.
+
+Relevant information includes all client confidential information a colleague has accessed through client service, client development, or internal communications such as CST meetings.
+
+Context matters. Back-office information may not be competitively sensitive in one situation but may be highly sensitive where digital capacity or another operational capability is a source of competitive distinctiveness.
+
+Extra care is required for competitively sensitive information about price, output, capacity, or customer identity. The Firm must not act, or be perceived as acting, as a conduit for improper information sharing between competitors because this may create antitrust or competition law risk.
+
+Role matters. Senior Firm members with an enterprise-wide or C-level counselor relationship with a client's leadership generally cannot serve that client's competitors, even if they have not received confidential information about the proposed engagement topic.
+
+When determining whether such a relationship exists, consider formal and informal client interactions.
+
+Firm Experts and colleagues serving through functional practices and growth platforms often serve competitors as part of their roles. To do so, team members must make that fact explicit to each client and to other CST members, and must avoid exposure to client confidential information that could conflict them from future work.
+
+For other team members, including Partners, APs, EMs, and Associates, potential conflicts are determined by the individual's exposure to the client and the workstreams on which they worked.
+
+Staffing decisions should consider the impact on each team member's future program, including whether the team member would be conflicted from serving existing or future clients.
+
+Perception matters. Staffing decisions must withstand internal and external scrutiny from colleagues, past and prospective clients, industry participants, regulators, and the media.
+
+Do not join a CST or accept client confidential information if the decision would not pass the red-face test when explained to the client.
+
+Agreement matters. Formal client agreements may include specific limitations, including staffing restrictions, archrivalry restrictions, and conflicts periods with sector leader approval.
+
+Oral commitments may be legally binding or create client expectations, so Firm members should be careful when making statements to clients.

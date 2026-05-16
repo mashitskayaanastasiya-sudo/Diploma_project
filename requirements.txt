@@ -1,0 +1,13 @@
+streamlit
+pandas
+openpyxl
+python-dotenv
+openai
+langchain-aws
+langchain-chroma
+langchain-classic
+langchain-core
+langchain-google-genai
+langchain-huggingface
+langchain-openai
+sentence-transformers

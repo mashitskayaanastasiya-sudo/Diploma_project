@@ -1,0 +1,85 @@
+Client-Facing Collaborators and External Workers Policy
+
+This policy applies to all Firm members and must be followed on all studies. It is not limited to the first time the Firm collaborates with a given external organization or interacts with a given external worker.
+
+Client-facing collaboration means working with an external organization to jointly develop or serve a client. External organizations involved in these arrangements are called Collaborators.
+
+External Workers, including Advisors and Contingent Workers, must have a Sponsor who coordinates with the External Worker COE to ensure all required processes are followed and all required legal arrangements are in place.
+
+Client-facing collaborations and External Workers require special registration and approvals for every study.
+
+An interaction is considered client-facing collaboration if any of the following apply:
+
+- The external organization conducts client-facing work, such as onsite work, participation in meetings, access to client systems, or being named in a proposal or statement of work as a contributor.
+- The Firm and external organization share responsibility for output, legally or in the eyes of the client.
+- The Firm's work is interdependent with the external organization's work, capability, or technology.
+- The Firm relies on the external organization's products, tools, software, solutions, delivery teams, know-how, or other capabilities.
+- The Firm and the external organization develop or deliver a joint capability or product.
+- The Firm and external organization conduct joint client development.
+- A data provider is introduced to a client so the client can negotiate directly for data access during or after an engagement.
+
+The following are generally excluded from the definition of client-facing collaboration:
+
+- Relying on a platform, tool, or capability that functions as designed without custom client development and without direct provider interaction.
+- Building internal Firm knowledge with an external organization.
+- Engaging an individual's expertise, such as a Senior Advisor or External Advisor.
+- Expert network data providers, survey providers, or knowledge service providers that do not interact with clients.
+- Knowledge, research, or social responsibility collaborations governed by dedicated Firm policies.
+- Purchasing and using an off-the-shelf third-party report.
+- Purchasing and using off-the-shelf third-party data.
+- Commissioning and using a report from a provider who never interacts with the client.
+
+Work with external organizations must follow Firm principles grounded in transparency with clients and an agnostic approach to ownership and the Firm's economic interests.
+
+CSTs may not work with organizations that have not completed the approval and onboarding process. Questions about interpretation or interaction with other policies should be raised with Firm Risk. Exceptions require CSRC approval.
+
+Each new Collaborator must have a Partner designated as Sponsor at onboarding. The Sponsor is responsible for:
+
+- Registering a potential new Collaborator before the Firm makes any commitment.
+- Acting as the face of the Firm for non-engagement communications with the Collaborator during the relationship lifecycle.
+- Delegating lifecycle-management responsibilities only to an appropriate person where permitted.
+
+Each engagement with an approved Collaborator requires a designated Responsible Partner. The Responsible Partner is responsible for:
+
+- Confirming the Collaborator is fully onboarded and compliant before a proposal is submitted or before the Collaborator is added to an ongoing engagement.
+- Confirming proper authorization for use of the client's name and client-provided data or materials.
+- Completing required Engage risk assessment and onboarding questionnaires.
+- Waiting for risk team approval before committing the Firm.
+- Working with Firm Legal to establish a mutual NDA and other required agreements before work begins.
+- Ensuring the Collaborator's work meets the same standards as the Firm's work, including professional standards, risk compact compliance, service line boundaries, and quality.
+
+An External Worker is any non-Firm member who requires access to one or more of the following:
+
+- Confidential Firm or client information.
+- Firm internal IT systems.
+- Firm equipment, such as a laptop.
+- Permanent Firm office badge access.
+
+Advisors include Senior Advisors, External Advisors, Aberkyn Affiliates, Coaches, and Faculty for Firm Learning. They guide future action of clients or the Firm on a limited or part-time basis.
+
+Contingent Workers support Firm activities by delivering a work product or service. They may be project-based, used for short-term capacity, or part of a broader collaboration or outsourced model.
+
+External Workers are not Firm members or employees. Firm members must clearly distinguish between External Workers and Firm members for legal and risk reasons.
+
+All External Workers require a Sponsor. The Sponsor must partner with the External Worker COE on requisitions, contracting, onboarding, conflict management, payment approvals, communications, renewals, and terminations.
+
+External Workers must be identifiable as external to the Firm:
+
+- They may be included in Firm mailing lists and Slack channels only if those lists or channels are labelled as including External Workers and are directly related to their work.
+- They must use their Firm external email address for all interactions involving the Firm or clients.
+- Personal email addresses may not be used for Firm or client work.
+
+Sponsors must work with the External Worker COE before an External Worker provides services. All External Workers must have a record in Magnit VMS.
+
+External Workers must be employees of another company or an individually owned company that meets the Firm's business validation requirements. Existing certified Suppliers should be used where possible. If a Supplier is not already onboarded, it must be onboarded through Optimize.
+
+Restrictions apply to both External Workers and Collaborators:
+
+- When engaging relatives, friends, or acquaintances, the connected Firm member must not be involved in the decision to engage, select, use, fund, or evaluate them.
+- The connected Firm member must not act as Sponsor.
+- The connected Firm member must not review or approve invoices.
+- Former Senior Partners generally require a gap of at least 12 months before being engaged as External Workers or joining a potential new Collaborator in a founder, C-suite, or controlling-interest role.
+- Former Partners and other former Firm members generally require a gap of at least three months, and some countries may require longer.
+- The Firm generally prohibits working with third parties chosen by a client to process invoices, facilitate payments to the Firm, or oversee, evaluate, negotiate, structure, or approve the Firm's services.
+
+Firm members must comply with this policy, act with integrity, and report violations. The Firm does not tolerate retaliation for good-faith reporting.

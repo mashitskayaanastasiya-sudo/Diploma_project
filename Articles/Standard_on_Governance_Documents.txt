@@ -1,0 +1,31 @@
+Standard on Governance Documents
+
+This standard applies to Firm governance documents, including policies, standards, procedures, and guidelines. Governance documents help describe mandatory requirements, recommended practices, and supporting processes across the Firm.
+
+A policy sets mandatory Firm requirements. Policies should be clear, concise, and aligned with applicable legal, regulatory, professional, ethical, and Firm obligations.
+
+A standard sets mandatory requirements that support or implement a policy. Standards should explain the specific rules, thresholds, roles, or processes needed to comply with the related policy.
+
+A procedure explains how to complete a process or activity. Procedures may include step-by-step instructions, workflows, approvals, roles, or operational details.
+
+A guideline provides recommended practices or interpretive guidance. Guidelines may help Firm members apply a policy, standard, or procedure in common situations.
+
+Governance documents should be written using approved templates and should include clear ownership, scope, effective date, review cycle, and document control information.
+
+Governance documents should be reviewed at least annually unless a shorter review cycle is required. Reviews should confirm that the document remains current, accurate, and aligned with Firm obligations and operating practices.
+
+Records related to governance documents should be retained according to applicable recordkeeping requirements. Document owners should maintain appropriate evidence of approvals, material changes, exceptions, and review history.
+
+New governance documents, material updates, and exceptions should follow the applicable approval process. Changes should be reviewed by the appropriate accountable parties before publication.
+
+Firm members are expected to comply with applicable governance documents. Failure to comply may result in consequences consistent with Firm policies and local requirements.
+
+Document owners are accountable for:
+
+- Maintaining the governance document.
+- Completing required reviews.
+- Coordinating required approvals.
+- Communicating material changes when needed.
+- Ensuring the document remains consistent with related governance documents.
+
+Annexes may define terms, clarify roles, or describe pre-approved exceptions. Annexes should be maintained with the same care as the main governance document.

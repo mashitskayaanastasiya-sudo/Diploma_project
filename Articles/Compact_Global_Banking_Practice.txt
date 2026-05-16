@@ -1,0 +1,49 @@
+Compact Global Banking Practice
+
+This compact identifies banking-related engagement types that are not approved, require CSRC approval, or require PRACL approval with input from relevant cell leaders.
+
+Work that is not approved includes:
+
+- Certifying, assuring, or validating regulatory compliance.
+- Drafting or opining on regulations or policies for regulators.
+- Meeting with government officials to lobby on behalf of financial institutions or trade associations.
+- Endorsing carbon market assets or associating the Firm name with tokenization of carbon credits.
+- Performing independent audits or providing formal opinion letters, such as fairness opinions for M&A.
+
+High-risk work requires CSRC approval with input from PRACL and other relevant cell leaders, as well as ongoing deliverable review. Examples include:
+
+- High-risk money movement work for a financial institution in a country on the Financial Action Task Force list of jurisdictions under increased monitoring, especially cross-border financial interaction, international private banking, or financial crimes work such as KYC.
+- Work in nascent areas where regulatory and legal uncertainty is high and compliance requirements are immature.
+- Work related to financing businesses considered higher risk under the CITIO framework, or industries with heightened legal risks, such as cannabis companies.
+- Regulatory remediation work that requires accounting, tax, or legal interpretations, or crisis response work with a high public profile or links to customer harm.
+- Financial crimes work that includes operational activities such as individual file review, lookbacks, or SAR filings.
+- Work that significantly affects vulnerable populations, such as deeply subprime or financially distressed populations, and may harm those populations or society.
+- Turnaround programs for highly distressed financial institutions, including banks with extreme liquidity difficulties.
+- Digital assets work, which must be assessed under the Digital Assets Compact.
+- Carbon markets work involving blockchain or tokenization.
+- Work focused on improving ESG ratings or market perception of a specific institution as the goal, rather than as an outcome.
+- ESG portfolio strategy work.
+- Work for consortia, associations, joint ventures, or other groups of competitors that are lawfully collaborating in the market.
+- Financial crimes work involving sanctions or fraud remediation, except for lower-risk operational remediation efforts.
+- Third-party reviews of practices, policies, or processes for a board or similar body where there is public scrutiny, a regulatory inquiry, or litigation.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders. Examples include:
+
+- Work for state-owned, controlled, or linked banks.
+- Work for early-stage fintech companies or new business builds where the conditions for impact may not be clear.
+- Work for regulators intended to be used as input for drafting policy or regulation.
+- Third-party reviews of practices, policies, or processes in connection with a regulatory inquiry.
+- Compensation-related work involving a sales force that sells to customers or small businesses.
+- Work related to capital and liquidity accuracy.
+- Developing or validating climate risk models, assisting with regulatory ESG disclosures, or climate strategy work. Sustainability leadership approval is also required where applicable.
+- Regulatory remediation programs or regulatory-related work that is not otherwise higher risk.
+- Development or validation of sensitive models, including credit models for subprime segments, AML, CCAR, or AI models, for banking organizations supervised by regulators or financial institutions under consumer protection regulators.
+- Retail pricing or sales enhancement work for retail products that could create misconduct risk, such as overcharging or abusive pricing structures.
+- Pricing work for central banks, government-run entities, or consortia-run entities.
+- Collections work that is not high risk because it does not primarily affect vulnerable populations.
+- Work that includes or could lead to material staff reductions in audit, risk, compliance, or regulatory functions.
+- Design, build, or implementation of cybersecurity work for financial institutions.
+- Operational arrangements involving performance-based fees, fees at risk, or equity arrangements.
+- New engagements entered into the system as confidential.
+
+Teams should consult the relevant compacts, CITIO framework, sustainability guidance, technology delivery protocols, and risk leaders before proceeding with banking work that may fall into these categories.

@@ -1,0 +1,80 @@
+Global GEM Practice Compact - Materials
+
+This compact provides risk guidance for materials work. It does not supersede the Client Service Policy or other Firm policies and guidelines. Partners and client service teams must comply with all applicable Firm policies and relevant sector compacts.
+
+Work that is not approved in this space should not be performed.
+
+High-risk work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders, plus ongoing deliverable review.
+
+Medium-risk-plus work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders.
+
+Work not approved or requiring heightened review includes:
+
+- Helping clients advocate or justify denial of climate change.
+- Work on client operations that directly and significantly increase negative environmental impact or impact on local communities where the client is not mitigating that impact.
+- Deep-sea mining work not otherwise specified, including operations or health, safety, and environment advice.
+- Work for clients with significant health and safety issues where the work relates to those issues or could otherwise negatively affect society.
+- Work for clients facing forced labor litigation or state investigation.
+- Work with industrial associations or bodies.
+- Work near conflict zones.
+- Work in remote areas with travel of more than five hours to the closest hospital.
+- Work involving activities or assets in disputed territories.
+- Closed-loop digital and analytics models for GEM clients where there is any potential safety impact.
+- Market analysis or strategy-level work related to deep-sea mining.
+- Defining health, safety, and environment standards, policies, safety strategies, or implementation.
+- Heap leaching studies involving cyanide.
+- Work related to tailings.
+- Work similar to a fairness opinion on geological reserves where the client would use the Firm's view as the basis for balance sheet valuation.
+- Work with potential adverse impact on communities or treatment of workers, excluding retrenchments.
+- Work that could be perceived as advocacy or lobbying.
+- Crisis response to incidents or accidents, including community resettlement, compensation, employee assessments, relocation strategy, or compensation strategy after destruction of facilities.
+- Commodity marketing, trading, commercial optimization, or trading risk management advice.
+- Work for clients facing forced labor allegations without formal litigation or state investigation.
+- Contractor or maintenance strategy that could lead to significant or catastrophic failure, such as dams or bridges, or safety and environmental risks.
+- Market conduct studies in oligopolistic markets, including materials with elevated geopolitical sensitivity or materials critical to sensitive industries such as defense.
+
+Additional medium-risk parameters include:
+
+- High-risk digital and analytics decision-making support systems that may adversely affect the client's core business.
+- At-risk or performance-based arrangements where the Firm changes operational parameters.
+- Higher-risk sales and channel topics, including digital sales, data privacy, and data analytics.
+- Procurement engagements that exert pressure on suppliers doing work with potential safety implications.
+- Work involving unions, where the Firm must remain an independent fact-based provider behind the scenes and not participate in negotiation.
+- Support for auctions allocating mining licenses, due to possible purchaser-supplier, FARA, and organizational conflict issues.
+
+Additional considerations include:
+
+- Technical feasibility reports, such as building a smelter, must include appropriate Firm or third-party technical expertise.
+- There are no general limitations on commodities served; specific concerns should be reviewed case by case.
+- Thermal coal work should follow the thermal coal appendix.
+- Public tender processes should be assessed for transparency, reputation risk, and project profile, and discussed with Risk and Legal if concerns arise.
+- Certified partners or professionals should be involved where required by Firm policies.
+- Work at underground mining, construction, or manufacturing sites may expose Firm members to hazards and requires safety precautions and training.
+
+Thermal coal work has additional restrictions.
+
+Thermal coal work not approved includes:
+
+- Thermal coal work in high-risk countries with no Firm office.
+- Work inconsistent with national or local public policy commitments.
+- Growth or extensions of assets below acceptable safety and environmental standards.
+- Advice to counter NGOs or regulatory implications of sustainability policies.
+- Work for greenfield thermal coal mines in OECD or European Union countries.
+
+Thermal coal medium-risk or higher-risk work includes:
+
+- Thermal coal work in high-risk countries with a Firm office.
+- Work on projects where reputable investment funds will not invest.
+- Work for greenfield thermal coal mines in non-OECD or non-European Union countries.
+- Thermal coal mining work not otherwise mentioned in the compact.
+- Work on coal with explicit objectives to increase availability or extend the life of a generation plant.
+- Politically sensitive topics.
+- Engagements with direct impact on local communities.
+- Adjustments that increase asset emissions.
+- Work that increases use of high-impurity coal.
+
+Any thermal coal mining work requires an environmental benefit and/or energy security or affordability benefit and should be reviewed by the Mining Practice.
+
+Low-risk thermal coal work may include market intelligence without accompanying advice on strategy or operations.

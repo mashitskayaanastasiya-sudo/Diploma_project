@@ -1,0 +1,55 @@
+Global Life Sciences Compact
+
+This compact provides Life Sciences conflict guidance. It does not supersede other Firm policies or guidelines. Cell partners and client service teams must comply with the Client Service Policy, CITIO Framework, and all other relevant Firm policies and compacts for the specific client or engagement.
+
+Work that is not approved in this space should not be performed.
+
+High-risk work requires Client Service Risk Committee approval with input from PRACL and other relevant cell leaders, plus ongoing deliverable review.
+
+High-risk United States-only topics include:
+
+- Loss of exclusivity.
+- Pricing and market access.
+- Commercial analytics that inform healthcare professional engagement.
+- Patient services.
+
+Engagement parameters requiring heightened review include:
+
+- Work related to opioid or opioid-based products or services.
+- Work for Schedule I through III products.
+- Commercial work for Schedule IV and V products.
+- Non-opioid work for clients with opioids in their portfolio.
+- Products related to treatment for substance use disorders.
+- Therapies at risk of misuse.
+
+Medium-risk work requires PRACL approval with input from other relevant cell leaders.
+
+Cannabis, cannabis-related products, and psychedelic products are treated as therapies at risk of misuse. They may be prohibited, higher risk, or medium risk depending on the specific facts. Teams should consult the Life Sciences risk team.
+
+For overall topics, engagement directors and regional risk partners determine whether a high-touch mitigation plan is needed.
+
+Overall risk flags include:
+
+- New clients.
+- Generative AI.
+- Performance arrangements or fees at risk.
+- GLP-1s and weight loss.
+- High-scrutiny topics such as reproductive health, women's health, genetic testing, the Inflation Reduction Act, the BioSecure Act, geopolitical topics, health equity, and compounded drugs.
+
+For domain-specific topics, engagement directors and the domain risk partner determine whether a high-touch mitigation plan is needed, with regional risk partner involvement.
+
+Domain-specific risk flags include:
+
+- Clinical research and development.
+- Medical affairs.
+- Pharmacovigilance.
+- Regulatory.
+- Real-world evidence and real-world data.
+- Commercial analytics for topics unrelated to healthcare professional engagement.
+- Healthcare professional services.
+
+Scheduled substances are defined by the relevant drug enforcement schedule. The Life Sciences risk team may raise matters to the Client Service Risk Committee for approval.
+
+For existing clients with a clear carve-out for opioid work, and where opioids are less than 10 percent of the client's portfolio, Client Service Risk Committee review may not be required.
+
+Therapies at risk of misuse include scheduled and non-scheduled drugs with misuse risk, such as dextromethorphan, diphenhydramine, pseudoephedrine, gabapentin, pregabalin, and quetiapine.
