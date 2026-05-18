@@ -12,3 +12,4 @@ chroma_db/
 compliance_db/
 streamlit run app.py.txt
 Articles/Corpus.xlsx
+*.before_synthetic_update.xlsx

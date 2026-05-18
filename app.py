@@ -6,6 +6,7 @@ import sys
 import time
 import tomllib
 import tempfile
+import hashlib
 from datetime import datetime, timezone
 
 # --- ЖЕСТКАЯ ПРИВЯЗКА ПУТИ ---
@@ -23,8 +24,19 @@ TUNED_MODEL_PATH = os.path.join(
     "my_tuned_model"
 )
 
-CHROMA_TUNED_PATH = os.path.join(tempfile.gettempdir(), "compliance_chroma_db_tuned")
-CHROMA_BASE_PATH = os.path.join(tempfile.gettempdir(), "compliance_chroma_db_base")
+def get_corpus_version(path):
+    stat = os.stat(path)
+    version_source = f"{stat.st_size}-{int(stat.st_mtime)}".encode("utf-8")
+    return hashlib.md5(version_source).hexdigest()[:8]
+
+
+CORPUS_VERSION = get_corpus_version(CSV_PATH)
+CHROMA_TUNED_PATH = os.path.join(
+    tempfile.gettempdir(), f"compliance_chroma_db_tuned_{CORPUS_VERSION}"
+)
+CHROMA_BASE_PATH = os.path.join(
+    tempfile.gettempdir(), f"compliance_chroma_db_base_{CORPUS_VERSION}"
+)
 LOGS_DIR = os.path.join(current_dir, "logs")
 QUERY_LOG_PATH = os.path.join(LOGS_DIR, "query_logs.csv")
 
